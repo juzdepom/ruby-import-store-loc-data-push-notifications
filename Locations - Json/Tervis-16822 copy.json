@@ -1,0 +1,432 @@
+[
+  {
+    "Name": "OSPREY",
+    "Address1": "928 S Tamiami Trail ",
+    "Address2": null,
+    "City": "Osprey",
+    "State": "FL",
+    "Postal": 34229,
+    "Latitude": 27.1923,
+    "Longitude": -82.4852
+  },
+  {
+    "Name": "FT MYERS Palm Pointe Shoppes",
+    "Address1": "11621 S Cleveland Ave   Suite 20 ",
+    "Address2": null,
+    "City": "Ft Myers",
+    "State": "FL",
+    "Postal": 33907,
+    "Latitude": 26.5639,
+    "Longitude": -81.8703
+  },
+  {
+    "Name": "THE VILLAGES Spanish Springs",
+    "Address1": "1109 Main Street  ",
+    "Address2": null,
+    "City": "The Villages",
+    "State": "FL",
+    "Postal": 32159,
+    "Latitude": 28.9332,
+    "Longitude": -81.8985
+  },
+  {
+    "Name": "MYRTLE BEACH Broadway at the Beach ",
+    "Address1": "1315 Celebrity Cir, 111  ",
+    "Address2": null,
+    "City": "Myrtle Beach",
+    "State": "SC",
+    "Postal": 29577,
+    "Latitude": 33.6985,
+    "Longitude": -78.9027
+  },
+  {
+    "Name": "PANAMA CITY BEACH Pier Park",
+    "Address1": "700 Pier Park Drive  Suite 120",
+    "Address2": null,
+    "City": "Panama City Beach",
+    "State": "FL",
+    "Postal": 32413,
+    "Latitude": 30.3103,
+    "Longitude": -85.9053
+  },
+  {
+    "Name": "KEY WEST",
+    "Address1": "431 Front Street   Unit 3",
+    "Address2": null,
+    "City": "Key West",
+    "State": "FL",
+    "Postal": 33040,
+    "Latitude": 24.5609,
+    "Longitude": -81.8895
+  },
+  {
+    "Name": "GATLINBURG  The Village Shops",
+    "Address1": "634 Parkway Suite 7",
+    "Address2": null,
+    "City": "Gatlinburg",
+    "State": "TN",
+    "Postal": 37738,
+    "Latitude": 35.6703,
+    "Longitude": -83.4749
+  },
+  {
+    "Name": "CHARLESTON",
+    "Address1": "179 Church Street",
+    "Address2": null,
+    "City": "Charleston",
+    "State": "SC",
+    "Postal": 29401,
+    "Latitude": 32.7772,
+    "Longitude": -79.932
+  },
+  {
+    "Name": "BRANSON Branson Landing",
+    "Address1": "503 Branson Landing",
+    "Address2": null,
+    "City": "Branson",
+    "State": "MO",
+    "Postal": 65616,
+    "Latitude": 36.6694,
+    "Longitude": -93.2489
+  },
+  {
+    "Name": "ORANGE BEACH  The Wharf",
+    "Address1": "4830 Main Street Suite G112 ",
+    "Address2": null,
+    "City": "Orange Beach",
+    "State": "AL",
+    "Postal": 36561,
+    "Latitude": 30.2887,
+    "Longitude": -87.5715
+  },
+  {
+    "Name": "FRANKENMUTH   River Place Shops",
+    "Address1": "925 South Main Street Suite B-4",
+    "Address2": null,
+    "City": "Frankenmuth",
+    "State": "MI",
+    "Postal": 48734,
+    "Latitude": 43.3576,
+    "Longitude": -83.7485
+  },
+  {
+    "Name": "SAVANNAH",
+    "Address1": "111 W Congress Street   Suite 102",
+    "Address2": null,
+    "City": "Savannah",
+    "State": "GA",
+    "Postal": 31401,
+    "Latitude": 32.0747,
+    "Longitude": -81.0883
+  },
+  {
+    "Name": "SAN ANTONIO",
+    "Address1": "111 Alamo Plaza ",
+    "Address2": null,
+    "City": "San Antonio",
+    "State": "TX",
+    "Postal": 78205,
+    "Latitude": 29.4239,
+    "Longitude": -98.4864
+  },
+  {
+    "Name": "BLOOMINGTON Mall of America",
+    "Address1": "370 West Market",
+    "Address2": null,
+    "City": "Bloomington",
+    "State": "MN",
+    "Postal": 55425,
+    "Latitude": 44.8512,
+    "Longitude": -93.226
+  },
+  {
+    "Name": "BLOWING ROCK The Martin House",
+    "Address1": "1098-3 Main Street If Sending Regular Mail use:  PO Box 427",
+    "Address2": null,
+    "City": "Blowing Rock",
+    "State": "NC",
+    "Postal": 28605,
+    "Latitude": 35.9905358,
+    "Longitude": -81.9252164
+  },
+  {
+    "Name": "SAN DIEGO Seaport Village",
+    "Address1": "803 W Harbor Drive  Space  CDE",
+    "Address2": null,
+    "City": "San Diego",
+    "State": "CA",
+    "Postal": 92101,
+    "Latitude": 32.7241,
+    "Longitude": -117.1709
+  },
+  {
+    "Name": "MONTEREY  Cannery Row",
+    "Address1": "660 Cannery Row  Suite 105",
+    "Address2": null,
+    "City": "Monterey",
+    "State": "CA",
+    "Postal": 93940,
+    "Latitude": 36.5747,
+    "Longitude": -121.8409
+  },
+  {
+    "Name": "NAPLES  Fifth Avenue   ",
+    "Address1": "776 Fifth Avenue South",
+    "Address2": null,
+    "City": "Naples",
+    "State": "FL",
+    "Postal": 34102,
+    "Latitude": 26.1375,
+    "Longitude": -81.7991
+  },
+  {
+    "Name": "ANNAPOLIS",
+    "Address1": "118 Main St",
+    "Address2": null,
+    "City": "Annapolis",
+    "State": "MD",
+    "Postal": 21401,
+    "Latitude": 38.9876,
+    "Longitude": -76.5528
+  },
+  {
+    "Name": "LAS VEGAS   Miracle Mile Shops at Planet Hollywood",
+    "Address1": "3663 Las Vegas Blvd South Suite 444",
+    "Address2": null,
+    "City": "Las Vegas",
+    "State": "NV",
+    "Postal": 89109,
+    "Latitude": 36.1317,
+    "Longitude": -115.1684
+  },
+  {
+    "Name": "AUSTIN   The Arboretum at Great Hills",
+    "Address1": "10000 Research Blvd   Space 102B",
+    "Address2": null,
+    "City": "Austin",
+    "State": "TX",
+    "Postal": 78759,
+    "Latitude": 30.4027,
+    "Longitude": -97.7611
+  },
+  {
+    "Name": "ASHEVILLE  Historic Biltmore Village",
+    "Address1": "3 Swan St",
+    "Address2": null,
+    "City": "Asheville",
+    "State": "NC",
+    "Postal": 28803,
+    "Latitude": 35.5317,
+    "Longitude": -82.523
+  },
+  {
+    "Name": "PIGEON FORGE  The Island in Pigeon Forge",
+    "Address1": "131 The Island Drive  Suite 9102",
+    "Address2": null,
+    "City": "Pigeon Forge",
+    "State": "TN",
+    "Postal": 37863,
+    "Latitude": 35.786,
+    "Longitude": -83.5622
+  },
+  {
+    "Name": "JACKSONVILLE  St John's Town Center",
+    "Address1": "10281 Midtown Parkway  Suite 123",
+    "Address2": null,
+    "City": "Jacksonville",
+    "State": "FL",
+    "Postal": 32246,
+    "Latitude": 30.2938,
+    "Longitude": -81.5171
+  },
+  {
+    "Name": "NATIONAL HARBOR",
+    "Address1": "189 Waterfront St",
+    "Address2": null,
+    "City": "National Harbor",
+    "State": "MD",
+    "Postal": 20745,
+    "Latitude": 38.8069,
+    "Longitude": -76.9957
+  },
+  {
+    "Name": "NEWPORT",
+    "Address1": "192 Thames St, Space A",
+    "Address2": null,
+    "City": "Newport",
+    "State": "RI",
+    "Postal": 2840,
+    "Latitude": 41.4782,
+    "Longitude": -71.3224
+  },
+  {
+    "Name": "VIRGINIA BEACH\nThe Shops at 31 Ocean",
+    "Address1": "312 Laskin Rd",
+    "Address2": null,
+    "City": "Virginia Beach",
+    "State": "VA",
+    "Postal": 23451,
+    "Latitude": 36.865,
+    "Longitude": -76.0062
+  },
+  {
+    "Name": "SARASOTA  St Armands Circle",
+    "Address1": "319 John Ringling Blvd",
+    "Address2": null,
+    "City": "Sarasota ",
+    "State": "FL",
+    "Postal": 34236,
+    "Latitude": 27.3165,
+    "Longitude": -82.5535
+  },
+  {
+    "Name": "DESTIN\nDestin Commons",
+    "Address1": "4277 Legendary Dr \nSuite J-112",
+    "Address2": null,
+    "City": "Destin",
+    "State": "FL",
+    "Postal": 32541,
+    "Latitude": 30.3928,
+    "Longitude": -86.4695
+  },
+  {
+    "Name": "WILLIAMSBURG",
+    "Address1": "447 Prince George St, Shop D",
+    "Address2": null,
+    "City": "Williamsburg",
+    "State": "VA",
+    "Postal": 23185,
+    "Latitude": 37.2284,
+    "Longitude": -76.7185
+  },
+  {
+    "Name": "SEDONA Cedic Plaza",
+    "Address1": "285 Jordan Road, Suite 2",
+    "Address2": null,
+    "City": "Sedona",
+    "State": "AZ",
+    "Postal": 86336,
+    "Latitude": 34.9099,
+    "Longitude": -111.8673
+  },
+  {
+    "Name": "ST AUGUSTINE",
+    "Address1": "162 Saint George St, Suite 1",
+    "Address2": null,
+    "City": "St Augustine",
+    "State": "FL",
+    "Postal": 32084,
+    "Latitude": 29.9184,
+    "Longitude": -81.3675
+  },
+  {
+    "Name": "ORLANDO I-Drive 360",
+    "Address1": "8371 International Drive, Space 90",
+    "Address2": null,
+    "City": "Orlando",
+    "State": "FL",
+    "Postal": 32819,
+    "Latitude": 28.4534,
+    "Longitude": -81.4723
+  },
+  {
+    "Name": "NEW ORLEANS  ",
+    "Address1": "531 Bienville St ",
+    "Address2": null,
+    "City": "New Orleans",
+    "State": "LA",
+    "Postal": 70130,
+    "Latitude": 29.9374,
+    "Longitude": -90.0695
+  },
+  {
+    "Name": "BOSTON",
+    "Address1": "270 Newbury Street",
+    "Address2": null,
+    "City": "Boston",
+    "State": "MA",
+    "Postal": 2116,
+    "Latitude": 42.3506,
+    "Longitude": -71.0764
+  },
+  {
+    "Name": "FT WORTH",
+    "Address1": "112 East 4 Street",
+    "Address2": null,
+    "City": "Ft Worth",
+    "State": "TX",
+    "Postal": 76102,
+    "Latitude": 32.759,
+    "Longitude": -97.3298
+  },
+  {
+    "Name": "COLUMBUS South Campus Gateway",
+    "Address1": "1572 North High Street",
+    "Address2": null,
+    "City": "Columbus",
+    "State": "OH",
+    "Postal": 43201,
+    "Latitude": 39.9908,
+    "Longitude": -82.9999
+  },
+  {
+    "Name": "CINCINNATI  The Banks at Cincy",
+    "Address1": "151 East Freedom Way",
+    "Address2": null,
+    "City": "Cincinnati",
+    "State": "OH",
+    "Postal": 45202,
+    "Latitude": 39.1094,
+    "Longitude": -84.5026
+  },
+  {
+    "Name": "TAMPA   International Plaza  ",
+    "Address1": "2223 N West Shore Blvd, Space 105",
+    "Address2": null,
+    "City": "Tampa",
+    "State": "FL",
+    "Postal": 33607,
+    "Latitude": 27.962,
+    "Longitude": -82.4922
+  },
+  {
+    "Name": "INDIANAPOLIS Circle Centre Mall  ",
+    "Address1": "49 West Maryland Street, Space E18 / 128",
+    "Address2": null,
+    "City": "Indianapolis",
+    "State": "IN",
+    "Postal": 46204,
+    "Latitude": 39.772,
+    "Longitude": -86.157
+  },
+  {
+    "Name": "ST PETERSBURG",
+    "Address1": "120 2nd Avenue NE Unit 102A ",
+    "Address2": null,
+    "City": "St Petersburg",
+    "State": "FL",
+    "Postal": 33701,
+    "Latitude": 27.7708,
+    "Longitude": -82.6328
+  },
+  {
+    "Name": "KANSAS CITY  Country Club Plaza",
+    "Address1": "606 West 48th Street  Space A606",
+    "Address2": null,
+    "City": "Kansas City",
+    "State": "MO",
+    "Postal": 64112,
+    "Latitude": 39.036,
+    "Longitude": -94.5952
+  },
+  {
+    "Name": "ATLANTA Town Center at Atlantic Station",
+    "Address1": "264 19th Street NW  Suite 2100-A  ",
+    "Address2": null,
+    "City": "Atlanta",
+    "State": "GA",
+    "Postal": 30363,
+    "Latitude": 33.7909,
+    "Longitude": -84.399
+  }
+]

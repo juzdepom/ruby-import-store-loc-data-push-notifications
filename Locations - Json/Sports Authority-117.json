@@ -1,0 +1,4313 @@
+[
+ {
+   "Name": "Grand Junction",
+   "Address1": "2424 Highway 6 and 50",
+   "Address2": "Mesa Mall",
+   "City": "Grand Junction",
+   "Postal": 81505,
+   "Latitude": 39.0935149,
+   "Longitude": -108.6014414
+ },
+ {
+   "Name": "Longmont",
+   "Address1": "2251 Ken Pratt Blvd",
+   "Address2": "The Village at Burlington",
+   "City": "Longmont",
+   "Postal": 80501,
+   "Latitude": 40.1426036,
+   "Longitude": -105.1298708
+ },
+ {
+   "Name": "SA ELITE -Cherry Creek",
+   "Address1": "3000 E First Ave, Ste 114",
+   "Address2": "Cherry Creek Shopping Center",
+   "City": "Denver",
+   "Postal": 80206,
+   "Latitude": 39.7177949,
+   "Longitude": -104.9507727
+ },
+ {
+   "Name": "Highlands Ranch",
+   "Address1": "1265 Sgt. Jon Stiles Dr. Unit B",
+   "Address2": "Town Center North",
+   "City": "Highlands Ranch",
+   "Postal": 80129,
+   "Latitude": 39.5477566,
+   "Longitude": -105.0148322
+ },
+ {
+   "Name": "Denver Sportscastle",
+   "Address1": "1000 Broadway",
+   "Address2": "Downtown Sportscastle",
+   "City": "Denver",
+   "Postal": 80203,
+   "Latitude": 39.732323,
+   "Longitude": -104.987027
+ },
+ {
+   "Name": "Ft. Collins Mini Castle",
+   "Address1": "425 S College Dr",
+   "Address2": null,
+   "City": "Fort Collins",
+   "Postal": 80524,
+   "Latitude": 40.581958,
+   "Longitude": -105.0772201
+ },
+ {
+   "Name": "Front Range Village Center",
+   "Address1": "4417 Corbett Dr",
+   "Address2": "Front Range Village Center",
+   "City": "Fort Collins",
+   "Postal": 80525,
+   "Latitude": 40.525414,
+   "Longitude": -105.028438
+ },
+ {
+   "Name": "Northglenn",
+   "Address1": "251 W 104th Ave",
+   "Address2": "Northglenn Market Place",
+   "City": "Northglenn",
+   "Postal": 80234,
+   "Latitude": 39.8853291,
+   "Longitude": -104.9925557
+ },
+ {
+   "Name": "Greeley",
+   "Address1": "4114 Centerplace Dr",
+   "Address2": "Centerplace Market",
+   "City": "Greeley",
+   "Postal": 80634,
+   "Latitude": 40.3950393,
+   "Longitude": -104.7478612
+ },
+ {
+   "Name": "Pueblo",
+   "Address1": "3325 Dillon Dr",
+   "Address2": "Pueblo Mall",
+   "City": "Pueblo",
+   "Postal": 81008,
+   "Latitude": 38.303308,
+   "Longitude": -104.609842
+ },
+ {
+   "Name": "Boulder Mini Castle",
+   "Address1": "3320 28th St",
+   "Address2": "Diagonal Plaza",
+   "City": "Boulder",
+   "Postal": 80301,
+   "Latitude": 40.0350682,
+   "Longitude": -105.2583602
+ },
+ {
+   "Name": "Vail (Resort)",
+   "Address1": "2161 N Frontage Road W",
+   "Address2": null,
+   "City": "Vail",
+   "Postal": 81657,
+   "Latitude": 39.630325,
+   "Longitude": -106.418844
+ },
+ {
+   "Name": "Cheyenne",
+   "Address1": "1400 Dell Range Blvd",
+   "Address2": "Frontier Mall",
+   "City": "Cheyenne",
+   "Postal": 82009,
+   "Latitude": 41.161994,
+   "Longitude": -104.807352
+ },
+ {
+   "Name": "Glenwood Springs (Resort)",
+   "Address1": "125 E Meadows Dr",
+   "Address2": "Glenwood Meadows",
+   "City": "Glenwood Springs",
+   "Postal": 81601,
+   "Latitude": 39.553735,
+   "Longitude": -107.341241
+ },
+ {
+   "Name": "Aurora",
+   "Address1": "14140 E Ellsworth Ave",
+   "Address2": "Aurora Town Center",
+   "City": "Aurora",
+   "Postal": 80012,
+   "Latitude": 39.7165621,
+   "Longitude": -104.8241777
+ },
+ {
+   "Name": "Arvada",
+   "Address1": "7400 West 52nd Ave",
+   "Address2": "Arvada Market Place",
+   "City": "Arvada",
+   "Postal": 80002,
+   "Latitude": 39.7910372,
+   "Longitude": -105.0787453
+ },
+ {
+   "Name": "Bowles",
+   "Address1": "8055 West Bowles Ave, Ste 2",
+   "Address2": "Bowles Crossing",
+   "City": "Littleton",
+   "Postal": 80123,
+   "Latitude": 39.611718,
+   "Longitude": -105.089699
+ },
+ {
+   "Name": "Arapahoe",
+   "Address1": "9000 E Peakview Ave",
+   "Address2": null,
+   "City": "Greenwood Village",
+   "Postal": 80111,
+   "Latitude": 39.597976,
+   "Longitude": -104.885773
+ },
+ {
+   "Name": "Chapel Hills",
+   "Address1": "7730 N Academy Blvd",
+   "Address2": null,
+   "City": "Colorado Springs",
+   "Postal": 80920,
+   "Latitude": 38.9433581,
+   "Longitude": -104.8003666
+ },
+ {
+   "Name": "Dillon  (Resort)",
+   "Address1": "306 Dillon Ridge Rd",
+   "Address2": "Dillon Ridge Shopping Center",
+   "City": "Dillon",
+   "Postal": 80435,
+   "Latitude": 39.630185,
+   "Longitude": -106.0554715
+ },
+ {
+   "Name": "Westminster",
+   "Address1": "9219 Sheridan Blvd",
+   "Address2": null,
+   "City": "Westminster",
+   "Postal": 80031,
+   "Latitude": 39.8654939,
+   "Longitude": -105.0535715
+ },
+ {
+   "Name": "Park Meadows",
+   "Address1": "7848 E County Line Rd",
+   "Address2": "Park Meadows",
+   "City": "Lone Tree",
+   "Postal": 80124,
+   "Latitude": 39.5656836,
+   "Longitude": -104.8998186
+ },
+ {
+   "Name": "Denver West",
+   "Address1": "14500 W Colfax Ave, Space E2",
+   "Address2": "Colorado Mills Mall",
+   "City": "Lakewood",
+   "Postal": 80401,
+   "Latitude": 39.730838,
+   "Longitude": -105.159245
+ },
+ {
+   "Name": "Parker",
+   "Address1": "11445 S Twenty Mile Rd",
+   "Address2": "Parker Road & Twenty Mile Road",
+   "City": "Parker",
+   "Postal": 80134,
+   "Latitude": 39.5101576,
+   "Longitude": -104.7670426
+ },
+ {
+   "Name": "Avon  (Resort)",
+   "Address1": "220 Beaver Creek Pl",
+   "Address2": "Chapel Square",
+   "City": "Avon",
+   "Postal": 81620,
+   "Latitude": 39.6340146,
+   "Longitude": -106.5190581
+ },
+ {
+   "Name": "Superior",
+   "Address1": "301 Marshall Rd",
+   "Address2": null,
+   "City": "Superior",
+   "Postal": 80027,
+   "Latitude": 39.9588527,
+   "Longitude": -105.1719095
+ },
+ {
+   "Name": "Steamboat (Resort)",
+   "Address1": "705 Marketplace Plz",
+   "Address2": null,
+   "City": "Steamboat Springs",
+   "Postal": 80487,
+   "Latitude": 40.4578734,
+   "Longitude": -106.8193229
+ },
+ {
+   "Name": "Southlands",
+   "Address1": "6305 Main St, Ste A-101",
+   "Address2": "The Southlands",
+   "City": "Aurora",
+   "Postal": 80016,
+   "Latitude": 39.6032348,
+   "Longitude": -104.7088014
+ },
+ {
+   "Name": "Glendale",
+   "Address1": "370 S Colorado Blvd",
+   "Address2": null,
+   "City": "Glendale",
+   "Postal": 80246,
+   "Latitude": 39.7092336,
+   "Longitude": -104.9383163
+ },
+ {
+   "Name": "Montrose",
+   "Address1": "3451 South Rio Grande Ave, Unit A",
+   "Address2": "River Landing North",
+   "City": "Montrose",
+   "Postal": 81401,
+   "Latitude": 38.446612,
+   "Longitude": -107.868253
+ },
+ {
+   "Name": "Amherst",
+   "Address1": "123 State Route 101A",
+   "Address2": null,
+   "City": "Amherst",
+   "Postal": 3031,
+   "Latitude": 42.8067677,
+   "Longitude": -71.5708959
+ },
+ {
+   "Name": "Danbury",
+   "Address1": "13 Sugar Hollow Rd",
+   "Address2": null,
+   "City": "Danbury",
+   "Postal": 6810,
+   "Latitude": 41.375623,
+   "Longitude": -73.476313
+ },
+ {
+   "Name": "Norwalk",
+   "Address1": "444 Connecticut Ave",
+   "Address2": null,
+   "City": "Norwalk",
+   "Postal": 6854,
+   "Latitude": 41.1000503,
+   "Longitude": -73.4414921
+ },
+ {
+   "Name": "North Haven",
+   "Address1": "180 Universal Dr N",
+   "Address2": null,
+   "City": "North Haven",
+   "Postal": 6473,
+   "Latitude": 41.3545369,
+   "Longitude": -72.8715974
+ },
+ {
+   "Name": "West Hartford",
+   "Address1": "1600 S East Rd",
+   "Address2": null,
+   "City": "Farmington",
+   "Postal": 6032,
+   "Latitude": 41.7177705,
+   "Longitude": -72.7626681
+ },
+ {
+   "Name": "Warwick Mall",
+   "Address1": "400 Bald Hill Rd, Ste 700",
+   "Address2": "Warwick Mall",
+   "City": "Warwick",
+   "Postal": 2886,
+   "Latitude": 41.7230544,
+   "Longitude": -71.4759358
+ },
+ {
+   "Name": "Framingham",
+   "Address1": "1 Worcester Rd",
+   "Address2": "Shopper's World",
+   "City": "Framingham",
+   "Postal": 1701,
+   "Latitude": 42.3006992,
+   "Longitude": -71.3961732
+ },
+ {
+   "Name": "Braintree",
+   "Address1": "250 Grossman Dr",
+   "Address2": null,
+   "City": "Braintree",
+   "Postal": 2184,
+   "Latitude": 42.2148172,
+   "Longitude": -70.9990265
+ },
+ {
+   "Name": "Salem",
+   "Address1": "290 S Broadway",
+   "Address2": null,
+   "City": "Salem",
+   "Postal": 3079,
+   "Latitude": 42.7576232,
+   "Longitude": -71.2118265
+ },
+ {
+   "Name": "South Portland",
+   "Address1": "364 Maine Mall Rd, Unit S-200",
+   "Address2": null,
+   "City": "South Portland",
+   "Postal": 4106,
+   "Latitude": 43.6342134,
+   "Longitude": -70.3367879
+ },
+ {
+   "Name": "Manchester",
+   "Address1": "1051 S Willow St",
+   "Address2": null,
+   "City": "Manchester",
+   "Postal": 3103,
+   "Latitude": 42.9619066,
+   "Longitude": -71.4398953
+ },
+ {
+   "Name": "Nashua",
+   "Address1": "213 Daniel Webster Hwy",
+   "Address2": "Royal Ridge Mall",
+   "City": "Nashua",
+   "Postal": 3060,
+   "Latitude": 42.7140472,
+   "Longitude": -71.4429873
+ },
+ {
+   "Name": "Woburn",
+   "Address1": "296 Mishawum Rd",
+   "Address2": null,
+   "City": "Woburn",
+   "Postal": 1801,
+   "Latitude": 42.5036106,
+   "Longitude": -71.1338937
+ },
+ {
+   "Name": "Plymouth",
+   "Address1": "90 Shops At 5 Way",
+   "Address2": "The Shops at 5",
+   "City": "Plymouth",
+   "Postal": 2360,
+   "Latitude": 41.92856,
+   "Longitude": -70.6532439
+ },
+ {
+   "Name": "Marlborough",
+   "Address1": "870 Donald Lynch Blvd",
+   "Address2": "Solomon Pond Mall",
+   "City": "Marlborough",
+   "Postal": 1752,
+   "Latitude": 42.3497139,
+   "Longitude": -71.6210697
+ },
+ {
+   "Name": "Somerville",
+   "Address1": "133 Middlesex Ave",
+   "Address2": null,
+   "City": "Somerville",
+   "Postal": 2145,
+   "Latitude": 42.3942886,
+   "Longitude": -71.0834949
+ },
+ {
+   "Name": "North Milford",
+   "Address1": "101 Cedar St",
+   "Address2": null,
+   "City": "Milford",
+   "Postal": 1757,
+   "Latitude": 42.1620777,
+   "Longitude": -71.5084402
+ },
+ {
+   "Name": "Mansfield",
+   "Address1": "280 School St, Ste I100",
+   "Address2": null,
+   "City": "Mansfield",
+   "Postal": 2048,
+   "Latitude": 42.01328,
+   "Longitude": -71.2270045
+ },
+ {
+   "Name": "Holyoke",
+   "Address1": "50 Holyoke St",
+   "Address2": null,
+   "City": "Holyoke",
+   "Postal": 1040,
+   "Latitude": 42.172183,
+   "Longitude": -72.642011
+ },
+ {
+   "Name": "Legacy",
+   "Address1": "1551 US Highway 287 N",
+   "Address2": "Mansfield Pointe",
+   "City": "Mansfield",
+   "Postal": 76063,
+   "Latitude": 32.586397,
+   "Longitude": -97.140082
+ },
+ {
+   "Name": "McKinney",
+   "Address1": "3190 S Central Expy, Ste 100",
+   "Address2": "Craig Crossing",
+   "City": "McKinney",
+   "Postal": 75070,
+   "Latitude": 33.1699537,
+   "Longitude": -96.6417581
+ },
+ {
+   "Name": "LBJ",
+   "Address1": "4245 Lyndon B Johnson Fwy",
+   "Address2": null,
+   "City": "Farmers Branch",
+   "Postal": 75244,
+   "Latitude": 32.9262803,
+   "Longitude": -96.8368838
+ },
+ {
+   "Name": "Cedar Hills",
+   "Address1": "727 N Highway 67",
+   "Address2": "Pleasant Run",
+   "City": "Cedar Hill",
+   "Postal": 75104,
+   "Latitude": 32.6014961,
+   "Longitude": -96.9369007
+ },
+ {
+   "Name": "Watauga",
+   "Address1": "7612 Denton Hwy, Ste 404",
+   "Address2": "Watauga Pavilion",
+   "City": "Watauga",
+   "Postal": 76148,
+   "Latitude": 32.8804389,
+   "Longitude": -97.2609978
+ },
+ {
+   "Name": "Caruth Plaza",
+   "Address1": "9100 N Central Expy, Ste 123",
+   "Address2": "Caruth Plaza",
+   "City": "Dallas",
+   "Postal": 75231,
+   "Latitude": 32.8724328,
+   "Longitude": -96.7691875
+ },
+ {
+   "Name": "Rockwall",
+   "Address1": "920 Steger Towne Rd",
+   "Address2": "Steger Towne Shopping Center",
+   "City": "Rockwall",
+   "Postal": 75032,
+   "Latitude": 32.8939493,
+   "Longitude": -96.4706759
+ },
+ {
+   "Name": "Irving",
+   "Address1": "3524 W Airport Fwy",
+   "Address2": null,
+   "City": "Irving",
+   "Postal": 75062,
+   "Latitude": 32.8359741,
+   "Longitude": -96.9962494
+ },
+ {
+   "Name": "Vista Ridge",
+   "Address1": "2325 S Stemmons Fwy, Ste 503",
+   "Address2": "Vista Ridge Village",
+   "City": "Lewisville",
+   "Postal": 75067,
+   "Latitude": 33.0057446,
+   "Longitude": -96.9790652
+ },
+ {
+   "Name": "Denton",
+   "Address1": "1800 S Loop 288, Ste 240",
+   "Address2": "Denton Crossing",
+   "City": "Denton",
+   "Postal": 76205,
+   "Latitude": 33.193988,
+   "Longitude": -97.0990659
+ },
+ {
+   "Name": "Hulen",
+   "Address1": "4830 S W Loop 820",
+   "Address2": "Overton Plaza",
+   "City": "Fort Worth",
+   "Postal": 76109,
+   "Latitude": 32.6842366,
+   "Longitude": -97.4108945
+ },
+ {
+   "Name": "Pearland",
+   "Address1": "11200 Broadway St",
+   "Address2": "Pearland Town Center",
+   "City": "Pearland",
+   "Postal": 77584,
+   "Latitude": 29.5524991,
+   "Longitude": -95.3909113
+ },
+ {
+   "Name": "Post Oak",
+   "Address1": "2131 Post Oak Blvd",
+   "Address2": "Post Oak Center",
+   "City": "Houston",
+   "Postal": 77056,
+   "Latitude": 29.7436869,
+   "Longitude": -95.4607993
+ },
+ {
+   "Name": "Gessner",
+   "Address1": "10225 Katy Fwy",
+   "Address2": null,
+   "City": "Houston",
+   "Postal": 77024,
+   "Latitude": 29.7841913,
+   "Longitude": -95.5488521
+ },
+ {
+   "Name": "The Fountains",
+   "Address1": "Fountains Shopping Center",
+   "Address2": "12730 Fountain Lake Cir",
+   "City": "Stafford",
+   "Postal": 77477,
+   "Latitude": 29.6253424,
+   "Longitude": -95.5623076
+ },
+ {
+   "Name": "Mills Road",
+   "Address1": "8625 FM 1960 Rd W",
+   "Address2": null,
+   "City": "Houston",
+   "Postal": 77070,
+   "Latitude": 29.953629,
+   "Longitude": -95.553546
+ },
+ {
+   "Name": "Deerbrook",
+   "Address1": "20416 Highway 59 N",
+   "Address2": "Deerbrook Marketplace",
+   "City": "Humble",
+   "Postal": 77338,
+   "Latitude": 30.011891,
+   "Longitude": -95.262214
+ },
+ {
+   "Name": "Baybrook",
+   "Address1": "1529 W. Bay Area Blvd.",
+   "Address2": null,
+   "City": "Webster",
+   "Postal": 77598,
+   "Latitude": 29.5367103,
+   "Longitude": -95.1482054
+ },
+ {
+   "Name": "The Woodlands",
+   "Address1": "19075 Interstate 45 S, Ste 105",
+   "Address2": "Portofino Shopping Center",
+   "City": "Shenandoah",
+   "Postal": 77385,
+   "Latitude": 30.1819904,
+   "Longitude": -95.4500663
+ },
+ {
+   "Name": "League City",
+   "Address1": "2620 Gulf Freeway S",
+   "Address2": "Victory Lakes Town Center",
+   "City": "League City",
+   "Postal": 77573,
+   "Latitude": 29.4719653,
+   "Longitude": -95.0949483
+ },
+ {
+   "Name": "Stone Ridge Market",
+   "Address1": "21115 US Highway 281 N, Ste 1600",
+   "Address2": "Stone Ridge Market",
+   "City": "San Antonio",
+   "Postal": 78258,
+   "Latitude": 29.643661,
+   "Longitude": -98.455143
+ },
+ {
+   "Name": "Plaza Del Norte",
+   "Address1": "125 NW Loop 410, Ste 240",
+   "Address2": "Plaza Del Norte",
+   "City": "San Antonio",
+   "Postal": 78216,
+   "Latitude": 29.5231134,
+   "Longitude": -98.4950302
+ },
+ {
+   "Name": "Pasadena",
+   "Address1": "3949 Fairway Plaza Dr",
+   "Address2": "Fairway Plaza",
+   "City": "Pasadena",
+   "Postal": 77505,
+   "Latitude": 29.6522629,
+   "Longitude": -95.1518555
+ },
+ {
+   "Name": "Frisco",
+   "Address1": "2930 Preston Rd, Ste 200-B",
+   "Address2": "Stonebriar Center",
+   "City": "Frisco",
+   "Postal": 75034,
+   "Latitude": 33.102885,
+   "Longitude": -96.8027842
+ },
+ {
+   "Name": "Waco",
+   "Address1": "2408 W Loop 340",
+   "Address2": "Central Texas Marketplace",
+   "City": "Waco",
+   "Postal": 76711,
+   "Latitude": 31.4981911,
+   "Longitude": -97.1601632
+ },
+ {
+   "Name": "McAllen",
+   "Address1": "3300 E Expressway 83, Ste 600",
+   "Address2": null,
+   "City": "McAllen",
+   "Postal": 78501,
+   "Latitude": 26.196404,
+   "Longitude": -98.257625
+ },
+ {
+   "Name": "Southpark Meadows",
+   "Address1": "9600 S Interstate 35, Ste E",
+   "Address2": "Southpark Meadows",
+   "City": "Austin",
+   "Postal": 78748,
+   "Latitude": 30.160015,
+   "Longitude": -97.790542
+ },
+ {
+   "Name": "Southroads",
+   "Address1": "5207 E. 41st St",
+   "Address2": "Southroads Center",
+   "City": "Tulsa",
+   "Postal": 74135,
+   "Latitude": 36.1044656,
+   "Longitude": -95.9182188
+ },
+ {
+   "Name": "Wichita",
+   "Address1": "6959 E 21st St N",
+   "Address2": null,
+   "City": "Wichita",
+   "Postal": 67206,
+   "Latitude": 37.722155,
+   "Longitude": -97.257076
+ },
+ {
+   "Name": "West Wichita",
+   "Address1": "2441 N Maize Rd, Ste 901",
+   "Address2": "New Market Square",
+   "City": "Wichita",
+   "Postal": 67205,
+   "Latitude": 37.72722,
+   "Longitude": -97.465053
+ },
+ {
+   "Name": "Lenexa",
+   "Address1": "12014 W 95th St",
+   "Address2": "Oak Park",
+   "City": "Lenexa",
+   "Postal": 66215,
+   "Latitude": 38.9566605,
+   "Longitude": -94.7261682
+ },
+ {
+   "Name": "Tiffany Springs",
+   "Address1": "8980 N Skyview Ave",
+   "Address2": "Tiffany Springs Market Center",
+   "City": "Kansas City",
+   "Postal": 64154,
+   "Latitude": 39.2578848,
+   "Longitude": -94.6555604
+ },
+ {
+   "Name": "Charleston",
+   "Address1": "7800 Rivers Ave",
+   "Address2": "North Rivers Market",
+   "City": "North Charleston",
+   "Postal": 29406,
+   "Latitude": 32.9471149,
+   "Longitude": -80.038982
+ },
+ {
+   "Name": "Collierville",
+   "Address1": "10337 E Shelby Dr",
+   "Address2": null,
+   "City": "Collierville",
+   "Postal": 38017,
+   "Latitude": 35.0187329,
+   "Longitude": -89.7185355
+ },
+ {
+   "Name": "Wolf Creek",
+   "Address1": "2751 Wolfcreek Pkwy",
+   "Address2": "Wolf Creek Center",
+   "City": "Memphis",
+   "Postal": 38133,
+   "Latitude": 35.201399,
+   "Longitude": -89.794313
+ },
+ {
+   "Name": "Southaven",
+   "Address1": "225 Goodman Rd W",
+   "Address2": null,
+   "City": "Southaven",
+   "Postal": 38671,
+   "Latitude": 34.9626113,
+   "Longitude": -89.9940936
+ },
+ {
+   "Name": "Memphis",
+   "Address1": "5895 Poplar Ave",
+   "Address2": "Ridgeway Trace Shopping Center",
+   "City": "Memphis",
+   "Postal": 38119,
+   "Latitude": 35.1025478,
+   "Longitude": -89.8647451
+ },
+ {
+   "Name": "Panama City",
+   "Address1": "525 W 23rd St",
+   "Address2": "The Panama City Square",
+   "City": "Panama City",
+   "Postal": 32405,
+   "Latitude": 30.187874,
+   "Longitude": -85.6692929
+ },
+ {
+   "Name": "Governors Square",
+   "Address1": "1644 Governors Square Blvd",
+   "Address2": null,
+   "City": "Tallahassee",
+   "Postal": 32301,
+   "Latitude": 30.4407125,
+   "Longitude": -84.2540117
+ },
+ {
+   "Name": "Dolphin Mall",
+   "Address1": "11521 NW 12th St, Ste N-100",
+   "Address2": "Dolphin Mall",
+   "City": "Miami",
+   "Postal": 33172,
+   "Latitude": 25.7842713,
+   "Longitude": -80.3685735
+ },
+ {
+   "Name": "Utah Sportscastle",
+   "Address1": "5550 S 900 E",
+   "Address2": "Utah Sportscastle",
+   "City": "Salt Lake City",
+   "Postal": 84117,
+   "Latitude": 40.650271,
+   "Longitude": -111.8661387
+ },
+ {
+   "Name": "Cedar City",
+   "Address1": "606 S Main St",
+   "Address2": "Renaissance Square",
+   "City": "Cedar City",
+   "Postal": 84720,
+   "Latitude": 37.665652,
+   "Longitude": -113.0646144
+ },
+ {
+   "Name": "Rock Springs",
+   "Address1": "1371 Dewar Dr",
+   "Address2": null,
+   "City": "Rock Springs",
+   "Postal": 82901,
+   "Latitude": 41.575001,
+   "Longitude": -109.238095
+ },
+ {
+   "Name": "Logan",
+   "Address1": "1050 N Main St, Ste D",
+   "Address2": null,
+   "City": "Logan",
+   "Postal": 84341,
+   "Latitude": 41.751873,
+   "Longitude": -111.833257
+ },
+ {
+   "Name": "Park City (Resort)",
+   "Address1": "1780 Park Ave",
+   "Address2": "Holiday Village",
+   "City": "Park City",
+   "Postal": 84060,
+   "Latitude": 40.6595596,
+   "Longitude": -111.5085063
+ },
+ {
+   "Name": "Orem",
+   "Address1": "643 East University Parkway",
+   "Address2": "University Mall",
+   "City": "Orem",
+   "Postal": 84097,
+   "Latitude": 40.273371,
+   "Longitude": -111.6799039
+ },
+ {
+   "Name": "Redwood",
+   "Address1": "5786 S Redwood Rd",
+   "Address2": null,
+   "City": "Taylorsville",
+   "Postal": 84123,
+   "Latitude": 40.6464931,
+   "Longitude": -111.9389343
+ },
+ {
+   "Name": "Southtowne",
+   "Address1": "10453 S State St",
+   "Address2": "Commons at Southtowne",
+   "City": "Sandy",
+   "Postal": 84070,
+   "Latitude": 40.5612651,
+   "Longitude": -111.8905671
+ },
+ {
+   "Name": "Riverdale",
+   "Address1": "1060 W Riverdale Rd",
+   "Address2": null,
+   "City": "Riverdale",
+   "Postal": 84405,
+   "Latitude": 41.177229,
+   "Longitude": -112.0040097
+ },
+ {
+   "Name": "South Jordan",
+   "Address1": "11617 Parkway Plaza Dr",
+   "Address2": "The District",
+   "City": "South Jordan",
+   "Postal": 84095,
+   "Latitude": 40.541307,
+   "Longitude": -111.979298
+ },
+ {
+   "Name": "Newgate",
+   "Address1": "3651 Wall Ave",
+   "Address2": "Newgate Mall",
+   "City": "Ogden",
+   "Postal": 84405,
+   "Latitude": 41.192969,
+   "Longitude": -111.980454
+ },
+ {
+   "Name": "Homestead",
+   "Address1": "2611 NE 10th Ct",
+   "Address2": "Homestead Pavilion",
+   "City": "Homestead",
+   "Postal": 33033,
+   "Latitude": 25.4803672,
+   "Longitude": -80.4406912
+ },
+ {
+   "Name": "Delray Beach",
+   "Address1": "510 Linton Blvd, Ste 110",
+   "Address2": null,
+   "City": "Delray Beach",
+   "Postal": 33444,
+   "Latitude": 26.4392382,
+   "Longitude": -80.0786876
+ },
+ {
+   "Name": "West Palm Beach",
+   "Address1": "2601 Okeechobee Blvd",
+   "Address2": "Westwood Shopping Center",
+   "City": "West Palm Beach",
+   "Postal": 33409,
+   "Latitude": 26.7065838,
+   "Longitude": -80.0911258
+ },
+ {
+   "Name": "Hialeah",
+   "Address1": "3895 W 20th Ave",
+   "Address2": "Westland Promenade Mall",
+   "City": "Hialeah",
+   "Postal": 33012,
+   "Latitude": 25.8561467,
+   "Longitude": -80.322086
+ },
+ {
+   "Name": "Kendall",
+   "Address1": "11910 Sw 88th St",
+   "Address2": "Kendall Gate",
+   "City": "Miami",
+   "Postal": 33186,
+   "Latitude": 25.6849786,
+   "Longitude": -80.3903091
+ },
+ {
+   "Name": "Sawgrass Mills",
+   "Address1": "12801 W Sunrise Blvd, Ste 257",
+   "Address2": "Sawgrass Mills Mall",
+   "City": "Sunrise",
+   "Postal": 33323,
+   "Latitude": 26.1462194,
+   "Longitude": -80.3260018
+ },
+ {
+   "Name": "Deerfield",
+   "Address1": "3810 W Hillsboro Blvd",
+   "Address2": "Deerfield Beach Mall",
+   "City": "Deerfield Beach",
+   "Postal": 33442,
+   "Latitude": 26.3177197,
+   "Longitude": -80.1581029
+ },
+ {
+   "Name": "Aventura",
+   "Address1": "18499 Biscayne Blvd",
+   "Address2": "Power Center",
+   "City": "Aventura",
+   "Postal": 33160,
+   "Latitude": 25.9466554,
+   "Longitude": -80.1468505
+ },
+ {
+   "Name": "Miami Int'l",
+   "Address1": "10688 NW 12th St",
+   "Address2": null,
+   "City": "Doral",
+   "Postal": 33172,
+   "Latitude": 25.7831319,
+   "Longitude": -80.3678149
+ },
+ {
+   "Name": "East Ft. Lauderdale",
+   "Address1": "1901 N Federal Hwy",
+   "Address2": null,
+   "City": "Fort Lauderdale",
+   "Postal": 33305,
+   "Latitude": 26.1533833,
+   "Longitude": -80.1189656
+ },
+ {
+   "Name": "Dadeland Station",
+   "Address1": "8364 S Dixie Hwy",
+   "Address2": "Dadeland Station",
+   "City": "Miami",
+   "Postal": 33143,
+   "Latitude": 25.692721,
+   "Longitude": -80.3040726
+ },
+ {
+   "Name": "Palm Beach Gardens",
+   "Address1": "3350 Northlake Blvd",
+   "Address2": null,
+   "City": "Palm Beach Gardens",
+   "Postal": 33403,
+   "Latitude": 26.807305,
+   "Longitude": -80.0890469
+ },
+ {
+   "Name": "Boca Raton",
+   "Address1": "20851 State Road 7",
+   "Address2": null,
+   "City": "Boca Raton",
+   "Postal": 33428,
+   "Latitude": 26.365551,
+   "Longitude": -80.204697
+ },
+ {
+   "Name": "Boynton Beach",
+   "Address1": "363 N Congress Ave",
+   "Address2": "Boynton Commons",
+   "City": "Boynton Beach",
+   "Postal": 33426,
+   "Latitude": 26.5299753,
+   "Longitude": -80.0906355
+ },
+ {
+   "Name": "Jupiter",
+   "Address1": "1560 W Indiantown Rd",
+   "Address2": null,
+   "City": "Jupiter",
+   "Postal": 33458,
+   "Latitude": 26.932592,
+   "Longitude": -80.1225842
+ },
+ {
+   "Name": "Pembroke Pines",
+   "Address1": "Boulevard Square",
+   "Address2": "11140 Pines Blvd",
+   "City": "Pembroke Pines",
+   "Postal": 33026,
+   "Latitude": 26.0078566,
+   "Longitude": -80.3205306
+ },
+ {
+   "Name": "Jensen Beach",
+   "Address1": "3101 NW Federal Hwy",
+   "Address2": "Treasure Coast Commons",
+   "City": "Jensen Beach",
+   "Postal": 34957,
+   "Latitude": 27.241384,
+   "Longitude": -80.269696
+ },
+ {
+   "Name": "Winter Garden",
+   "Address1": "3373 Daniels Rd",
+   "Address2": null,
+   "City": "Winter Garden",
+   "Postal": 34787,
+   "Latitude": 28.5198472,
+   "Longitude": -81.5866719
+ },
+ {
+   "Name": "Colonial",
+   "Address1": "3230 E Colonial Dr",
+   "Address2": "Colonial Landing",
+   "City": "Orlando",
+   "Postal": 32803,
+   "Latitude": 28.5532224,
+   "Longitude": -81.344772
+ },
+ {
+   "Name": "Altamonte Springs",
+   "Address1": "380 S State Road 434",
+   "Address2": "West Town Center",
+   "City": "Altamonte Springs",
+   "Postal": 32714,
+   "Latitude": 28.667116,
+   "Longitude": -81.419723
+ },
+ {
+   "Name": "South Orlando",
+   "Address1": "881 Sand Lake Rd",
+   "Address2": "Sand Lake Plaza",
+   "City": "Orlando",
+   "Postal": 32809,
+   "Latitude": 28.4510149,
+   "Longitude": -81.3882088
+ },
+ {
+   "Name": "Kissimmee",
+   "Address1": "3214 N John Young Pkwy",
+   "Address2": "The Loop",
+   "City": "Kissimmee",
+   "Postal": 34741,
+   "Latitude": 28.3442288,
+   "Longitude": -81.4201839
+ },
+ {
+   "Name": "Melbourne",
+   "Address1": "1750 Evans Rd",
+   "Address2": null,
+   "City": "Melbourne",
+   "Postal": 32904,
+   "Latitude": 28.0829549,
+   "Longitude": -80.6544164
+ },
+ {
+   "Name": "West Orlando",
+   "Address1": "7500 W Colonial Dr",
+   "Address2": null,
+   "City": "Orlando",
+   "Postal": 32818,
+   "Latitude": 28.550523,
+   "Longitude": -81.485444
+ },
+ {
+   "Name": "Sanford",
+   "Address1": "1301  WP Ball Blvd",
+   "Address2": "Market Place at Seminole Town",
+   "City": "Sanford",
+   "Postal": 32771,
+   "Latitude": 28.7999641,
+   "Longitude": -81.3370442
+ },
+ {
+   "Name": "Ocala",
+   "Address1": "4039 SW 43rd Street Rd",
+   "Address2": null,
+   "City": "Ocala",
+   "Postal": 34474,
+   "Latitude": 29.142791,
+   "Longitude": -82.187819
+ },
+ {
+   "Name": "Daytona Beach",
+   "Address1": "1910 W International Speedway Blvd",
+   "Address2": null,
+   "City": "Daytona Beach",
+   "Postal": 32114,
+   "Latitude": 29.193127,
+   "Longitude": -81.076379
+ },
+ {
+   "Name": "Gainesville",
+   "Address1": "7400 W Newberry Rd",
+   "Address2": null,
+   "City": "Gainesville",
+   "Postal": 32605,
+   "Latitude": 29.661491,
+   "Longitude": -82.421508
+ },
+ {
+   "Name": "Waterford Lakes",
+   "Address1": "610 N Alafaya Trail",
+   "Address2": "Waterford Towers",
+   "City": "Orlando",
+   "Postal": 32828,
+   "Latitude": 28.5551408,
+   "Longitude": -81.206839
+ },
+ {
+   "Name": "Jacksonville",
+   "Address1": "9950 Southside Blvd",
+   "Address2": null,
+   "City": "Jacksonville",
+   "Postal": 32256,
+   "Latitude": 30.1899544,
+   "Longitude": -81.551917
+ },
+ {
+   "Name": "Viera",
+   "Address1": "6729 Colonnade Ave, Ste 131",
+   "Address2": "The Avenues at Viera",
+   "City": "Melbourne",
+   "Postal": 32940,
+   "Latitude": 28.2419412,
+   "Longitude": -80.7284457
+ },
+ {
+   "Name": "Wellington",
+   "Address1": "820 S State Road 7",
+   "Address2": null,
+   "City": "Wellington",
+   "Postal": 33414,
+   "Latitude": 26.657062,
+   "Longitude": -80.204559
+ },
+ {
+   "Name": "Port St. Lucie",
+   "Address1": "10648 SW Village Pkwy",
+   "Address2": null,
+   "City": "Port Saint Lucie",
+   "Postal": 34987,
+   "Latitude": 27.2705872,
+   "Longitude": -80.4270872
+ },
+ {
+   "Name": "Spring Hill",
+   "Address1": "1417 Wendy Ct",
+   "Address2": "Nature Coast Commons",
+   "City": "Spring Hill",
+   "Postal": 34607,
+   "Latitude": 28.454382,
+   "Longitude": -82.6313463
+ },
+ {
+   "Name": "Sarasota East",
+   "Address1": "147 N Cattlemen Rd",
+   "Address2": "University Parkway",
+   "City": "Sarasota",
+   "Postal": 34243,
+   "Latitude": 27.3843209,
+   "Longitude": -82.4563661
+ },
+ {
+   "Name": "Clearwater",
+   "Address1": "23662 US Highway 19 N",
+   "Address2": "Sunset Plaza",
+   "City": "Clearwater",
+   "Postal": 33765,
+   "Latitude": 27.9876882,
+   "Longitude": -82.7297727
+ },
+ {
+   "Name": "Fowler",
+   "Address1": "1730 E Fowler Ave",
+   "Address2": null,
+   "City": "Tampa",
+   "Postal": 33612,
+   "Latitude": 28.0546659,
+   "Longitude": -82.439468
+ },
+ {
+   "Name": "St. Petersburg",
+   "Address1": "3700 Tyrone Blvd N",
+   "Address2": null,
+   "City": "Saint Petersburg",
+   "Postal": 33710,
+   "Latitude": 27.805126,
+   "Longitude": -82.748937
+ },
+ {
+   "Name": "Sarasota West",
+   "Address1": "4092 Cattleman Rd",
+   "Address2": "Center Gate Village",
+   "City": "Sarasota",
+   "Postal": 34233,
+   "Latitude": 27.294979,
+   "Longitude": -82.4517272
+ },
+ {
+   "Name": "Port Richey",
+   "Address1": "9560 US Highway 19",
+   "Address2": "Embassy Crossings",
+   "City": "Port Richey",
+   "Postal": 34668,
+   "Latitude": 28.2946293,
+   "Longitude": -82.7086582
+ },
+ {
+   "Name": "Bradenton",
+   "Address1": "201 Cortez Rd W",
+   "Address2": null,
+   "City": "Bradenton",
+   "Postal": 34207,
+   "Latitude": 27.460757,
+   "Longitude": -82.564713
+ },
+ {
+   "Name": "Westshore",
+   "Address1": "4900 W Kennedy Blvd",
+   "Address2": null,
+   "City": "Tampa",
+   "Postal": 33609,
+   "Latitude": 27.9447401,
+   "Longitude": -82.5267222
+ },
+ {
+   "Name": "Citrus Park",
+   "Address1": "12601 Citrus Plaza Dr",
+   "Address2": "Citrus Park Plaza",
+   "City": "Tampa",
+   "Postal": 33625,
+   "Latitude": 28.0637791,
+   "Longitude": -82.5774579
+ },
+ {
+   "Name": "Brandon",
+   "Address1": "11335 Causeway Blvd",
+   "Address2": "Lake Brandon Village",
+   "City": "Brandon",
+   "Postal": 33511,
+   "Latitude": 27.921478,
+   "Longitude": -82.321867
+ },
+ {
+   "Name": "Fort Myers",
+   "Address1": "2317 Colonial Blvd",
+   "Address2": null,
+   "City": "Fort Myers",
+   "Postal": 33907,
+   "Latitude": 26.5971925,
+   "Longitude": -81.8652244
+ },
+ {
+   "Name": "Naples",
+   "Address1": "2505 Pine Ridge Rd",
+   "Address2": null,
+   "City": "Naples",
+   "Postal": 34109,
+   "Latitude": 26.212719,
+   "Longitude": -81.767456
+ },
+ {
+   "Name": "Bonita Springs",
+   "Address1": "8012 Mediterranean Dr",
+   "Address2": "Coconut Point Shopping Center",
+   "City": "Estero",
+   "Postal": 33928,
+   "Latitude": 26.4081025,
+   "Longitude": -81.8101636
+ },
+ {
+   "Name": "Cape Coral",
+   "Address1": "1810 NE Pine Island Rd",
+   "Address2": null,
+   "City": "Cape Coral",
+   "Postal": 33909,
+   "Latitude": 26.6696603,
+   "Longitude": -81.9364089
+ },
+ {
+   "Name": "Cypress Lakes",
+   "Address1": "9375 Ben C. Pratt Pkwy",
+   "Address2": "Colonial Square Town Center",
+   "City": "Fort Myers",
+   "Postal": 33966,
+   "Latitude": 26.5913373,
+   "Longitude": -81.8149023
+ },
+ {
+   "Name": "Idaho Falls",
+   "Address1": "1592 E 17th St",
+   "Address2": "Hall Park Plaza",
+   "City": "Idaho Falls",
+   "Postal": 83404,
+   "Latitude": 43.4823837,
+   "Longitude": -112.005409
+ },
+ {
+   "Name": "Nampa",
+   "Address1": "1460 N Happy Valley Rd",
+   "Address2": "Nampa Gateway Center",
+   "City": "Nampa",
+   "Postal": 83687,
+   "Latitude": 43.5972156,
+   "Longitude": -116.5124262
+ },
+ {
+   "Name": "Lewiston",
+   "Address1": "625 21st St, Ste A",
+   "Address2": null,
+   "City": "Lewiston",
+   "Postal": 83501,
+   "Latitude": 46.4140774,
+   "Longitude": -117.0018917
+ },
+ {
+   "Name": "Jackson (Resort)",
+   "Address1": "455 West Broadway",
+   "Address2": null,
+   "City": "Jackson",
+   "Postal": 83001,
+   "Latitude": 43.4790744,
+   "Longitude": -110.7692124
+ },
+ {
+   "Name": "Boise",
+   "Address1": "1301 N Milwaukee St",
+   "Address2": null,
+   "City": "Boise",
+   "Postal": 83704,
+   "Latitude": 43.617376,
+   "Longitude": -116.285465
+ },
+ {
+   "Name": "Hiram",
+   "Address1": "4471 Jimmy Lee Smith Pkwy, Ste B",
+   "Address2": null,
+   "City": "Hiram",
+   "Postal": 30141,
+   "Latitude": 33.892558,
+   "Longitude": -84.75317
+ },
+ {
+   "Name": "Northlake",
+   "Address1": "3200 Northlake Pkwy NE",
+   "Address2": "Northlake Mall",
+   "City": "Atlanta",
+   "Postal": 30345,
+   "Latitude": 33.853006,
+   "Longitude": -84.2578149
+ },
+ {
+   "Name": "Alpharetta",
+   "Address1": "7461 N Point Pkwy",
+   "Address2": "Mansell Crossing",
+   "City": "Alpharetta",
+   "Postal": 30022,
+   "Latitude": 34.043874,
+   "Longitude": -84.303845
+ },
+ {
+   "Name": "Buckhead",
+   "Address1": "3221 Peachtree Rd NE",
+   "Address2": "S.W. of Lenox Square Mall",
+   "City": "Atlanta",
+   "Postal": 30305,
+   "Latitude": 33.8424702,
+   "Longitude": -84.3732921
+ },
+ {
+   "Name": "Gwinnett",
+   "Address1": "3450 Steve Reynolds Blvd, Ste 200",
+   "Address2": null,
+   "City": "Duluth",
+   "Postal": 30096,
+   "Latitude": 33.9506631,
+   "Longitude": -84.136949
+ },
+ {
+   "Name": "Mt. Zion",
+   "Address1": "1987 Mount Zion Rd",
+   "Address2": null,
+   "City": "Morrow",
+   "Postal": 30260,
+   "Latitude": 33.5638283,
+   "Longitude": -84.3255322
+ },
+ {
+   "Name": "Stone Mountain",
+   "Address1": "4235 Highway 78",
+   "Address2": null,
+   "City": "Lilburn",
+   "Postal": 30047,
+   "Latitude": 33.8349079,
+   "Longitude": -84.0761726
+ },
+ {
+   "Name": "Cumberland",
+   "Address1": "2963 Cobb Pkwy",
+   "Address2": "Akers Mill Square",
+   "City": "Atlanta",
+   "Postal": 30339,
+   "Latitude": 33.882248,
+   "Longitude": -84.461106
+ },
+ {
+   "Name": "Perimeter Pointe",
+   "Address1": "1155 Mount Vernon Hwy, Ste 500",
+   "Address2": "Perimeter Pointe",
+   "City": "Atlanta",
+   "Postal": 30338,
+   "Latitude": 33.9345324,
+   "Longitude": -84.349806
+ },
+ {
+   "Name": "Town Center",
+   "Address1": "850 Cobb Place Blvd NW",
+   "Address2": "Cobb Place",
+   "City": "Kennesaw",
+   "Postal": 30144,
+   "Latitude": 34.0102943,
+   "Longitude": -84.5724006
+ },
+ {
+   "Name": "Conyers",
+   "Address1": "2209 Highway 20 SE",
+   "Address2": "Conyers Crossing",
+   "City": "Conyers",
+   "Postal": 30013,
+   "Latitude": 33.6294864,
+   "Longitude": -84.0144949
+ },
+ {
+   "Name": "Huntsville",
+   "Address1": "6890 Governors West NW",
+   "Address2": "Bridge Street Town Centre",
+   "City": "Huntsville",
+   "Postal": 35806,
+   "Latitude": 34.7068833,
+   "Longitude": -86.6773851
+ },
+ {
+   "Name": "Concord Mills",
+   "Address1": "8094 Concord Mills Blvd",
+   "Address2": null,
+   "City": "Concord",
+   "Postal": 28027,
+   "Latitude": 35.3708482,
+   "Longitude": -80.7169034
+ },
+ {
+   "Name": "Lower Nazareth",
+   "Address1": "3855 Dryland Way",
+   "Address2": "Lower Nazareth Commons",
+   "City": "Easton",
+   "Postal": 18045,
+   "Latitude": 40.7127813,
+   "Longitude": -75.2884018
+ },
+ {
+   "Name": "Exton",
+   "Address1": "107 E Swedesford Rd",
+   "Address2": null,
+   "City": "Exton",
+   "Postal": 19341,
+   "Latitude": 40.0332168,
+   "Longitude": -75.630336
+ },
+ {
+   "Name": "Allentown",
+   "Address1": "2180 MacArthur Rd, Bldg A",
+   "Address2": "Whitehall Square Shopping Center",
+   "City": "Whitehall",
+   "Postal": 18052,
+   "Latitude": 40.6386176,
+   "Longitude": -75.4890475
+ },
+ {
+   "Name": "Oxford Valley",
+   "Address1": "2375 E Lincoln Hwy",
+   "Address2": null,
+   "City": "Langhorne",
+   "Postal": 19047,
+   "Latitude": 40.1787743,
+   "Longitude": -74.8740782
+ },
+ {
+   "Name": "Lancaster",
+   "Address1": "1700 Fruitville Pike",
+   "Address2": null,
+   "City": "Lancaster",
+   "Postal": 17601,
+   "Latitude": 40.0672764,
+   "Longitude": -76.3194284
+ },
+ {
+   "Name": "Warrington",
+   "Address1": "1035 Main St",
+   "Address2": null,
+   "City": "Warrington",
+   "Postal": 18976,
+   "Latitude": 40.2312314,
+   "Longitude": -75.1364824
+ },
+ {
+   "Name": "Billings",
+   "Address1": "100 24th Street West",
+   "Address2": "Rimrock Village",
+   "City": "Billings",
+   "Postal": 59102,
+   "Latitude": 45.7716057,
+   "Longitude": -108.577483
+ },
+ {
+   "Name": "Missoula",
+   "Address1": "2640 N Reserve St",
+   "Address2": "North Gate Center",
+   "City": "Missoula",
+   "Postal": 59808,
+   "Latitude": 46.889787,
+   "Longitude": -114.0369283
+ },
+ {
+   "Name": "Concord",
+   "Address1": "1100 Rocky Run Pkwy",
+   "Address2": null,
+   "City": "Wilmington",
+   "Postal": 19803,
+   "Latitude": 39.823702,
+   "Longitude": -75.549198
+ },
+ {
+   "Name": "Turnersville",
+   "Address1": "141 Tuckahoe Rd, Ste 100",
+   "Address2": null,
+   "City": "Sewell",
+   "Postal": 8080,
+   "Latitude": 39.7163401,
+   "Longitude": -75.0303343
+ },
+ {
+   "Name": "Riverdale",
+   "Address1": "Riverdale Crossing  48 Route 23 N",
+   "Address2": "Riverdale Crossing",
+   "City": "Riverdale",
+   "Postal": 7457,
+   "Latitude": 40.9912202,
+   "Longitude": -74.3132428
+ },
+ {
+   "Name": "Secaucus",
+   "Address1": "31 Mill Creek Dr",
+   "Address2": "Mill Creek at Harmon Meadow",
+   "City": "Secaucus",
+   "Postal": 7094,
+   "Latitude": 40.7926527,
+   "Longitude": -74.0499578
+ },
+ {
+   "Name": "Atlantic City",
+   "Address1": "4315 Black Horse Pike",
+   "Address2": null,
+   "City": "Mays Landing",
+   "Postal": 8330,
+   "Latitude": 39.448377,
+   "Longitude": -74.63305
+ },
+ {
+   "Name": "Mount Laurel",
+   "Address1": "70 Centerton Rd, Unit P",
+   "Address2": null,
+   "City": "Mount Laurel",
+   "Postal": 8054,
+   "Latitude": 39.9728485,
+   "Longitude": -74.9089792
+ },
+ {
+   "Name": "Wayne",
+   "Address1": "81 Willowbrook Blvd",
+   "Address2": null,
+   "City": "Wayne",
+   "Postal": 7470,
+   "Latitude": 40.8879323,
+   "Longitude": -74.2524596
+ },
+ {
+   "Name": "East Brunswick",
+   "Address1": "300 State Route 18",
+   "Address2": null,
+   "City": "East Brunswick",
+   "Postal": 8816,
+   "Latitude": 40.456102,
+   "Longitude": -74.4005564
+ },
+ {
+   "Name": "West Long Branch",
+   "Address1": "310 State Route 36, Ste 602",
+   "Address2": null,
+   "City": "West Long Branch",
+   "Postal": 7764,
+   "Latitude": 40.3164283,
+   "Longitude": -73.9796515
+ },
+ {
+   "Name": "Paramus",
+   "Address1": "50 A and S Dr",
+   "Address2": "Paramus Park Mall",
+   "City": "Paramus",
+   "Postal": 7652,
+   "Latitude": 40.958566,
+   "Longitude": -74.071803
+ },
+ {
+   "Name": "Woodbridge",
+   "Address1": "931 Route 1 S",
+   "Address2": null,
+   "City": "Iselin",
+   "Postal": 8830,
+   "Latitude": 40.5696209,
+   "Longitude": -74.2948099
+ },
+ {
+   "Name": "East Hanover",
+   "Address1": "142 State Route 10",
+   "Address2": null,
+   "City": "East Hanover",
+   "Postal": 7936,
+   "Latitude": 40.8101552,
+   "Longitude": -74.3826315
+ },
+ {
+   "Name": "Union",
+   "Address1": "295 Rt. 22 East",
+   "Address2": null,
+   "City": "Springfield",
+   "Postal": 7081,
+   "Latitude": 40.6850009,
+   "Longitude": -74.3260017
+ },
+ {
+   "Name": "Ledgewood",
+   "Address1": "401 State Route 10",
+   "Address2": null,
+   "City": "Ledgewood",
+   "Postal": 7852,
+   "Latitude": 40.872922,
+   "Longitude": -74.652074
+ },
+ {
+   "Name": "Brick",
+   "Address1": "1 Brick Plz",
+   "Address2": null,
+   "City": "Brick",
+   "Postal": 8723,
+   "Latitude": 40.0583781,
+   "Longitude": -74.1411369
+ },
+ {
+   "Name": "Piscataway",
+   "Address1": "1327 Centennial Ave",
+   "Address2": null,
+   "City": "Piscataway",
+   "Postal": 8854,
+   "Latitude": 40.5523558,
+   "Longitude": -74.4477043
+ },
+ {
+   "Name": "Hazlet",
+   "Address1": "3434 Highway 35",
+   "Address2": null,
+   "City": "Hazlet",
+   "Postal": 7730,
+   "Latitude": 40.4234959,
+   "Longitude": -74.1967432
+ },
+ {
+   "Name": "Clifton",
+   "Address1": "415 Route 3 East",
+   "Address2": null,
+   "City": "Clifton",
+   "Postal": 7014,
+   "Latitude": 40.8297033,
+   "Longitude": -74.1385011
+ },
+ {
+   "Name": "Cherry Hill",
+   "Address1": "2139 Route 38",
+   "Address2": null,
+   "City": "Cherry Hill",
+   "Postal": 8002,
+   "Latitude": 39.9390257,
+   "Longitude": -75.0222293
+ },
+ {
+   "Name": "Garden State Plaza",
+   "Address1": "200 Ikea Dr",
+   "Address2": "Garden State Plaza",
+   "City": "Paramus",
+   "Postal": 7652,
+   "Latitude": 40.9244674,
+   "Longitude": -74.0745876
+ },
+ {
+   "Name": "Riverhead",
+   "Address1": "1160 Old Country Rd",
+   "Address2": null,
+   "City": "Riverhead",
+   "Postal": 11901,
+   "Latitude": 40.931748999999996,
+   "Longitude": -72.680804
+ },
+ {
+   "Name": "Sayville",
+   "Address1": "5151 Sunrise Hwy",
+   "Address2": null,
+   "City": "Bohemia",
+   "Postal": 11716,
+   "Latitude": 40.7638582,
+   "Longitude": -73.0948985
+ },
+ {
+   "Name": "Smith Haven",
+   "Address1": "2110 Nesconset Hwy",
+   "Address2": null,
+   "City": "Stony Brook",
+   "Postal": 11790,
+   "Latitude": 40.8710691,
+   "Longitude": -73.1278987
+ },
+ {
+   "Name": "Massapequa",
+   "Address1": "5234 Sunrise Hwy",
+   "Address2": "Sunrise Promenade",
+   "City": "Massapequa",
+   "Postal": 11762,
+   "Latitude": 40.6780514,
+   "Longitude": -73.4435442
+ },
+ {
+   "Name": "Westbury",
+   "Address1": "1230 Old Country Rd",
+   "Address2": "Price Club Plaza",
+   "City": "Westbury",
+   "Postal": 11590,
+   "Latitude": 40.7437862,
+   "Longitude": -73.5999165
+ },
+ {
+   "Name": "Yonkers",
+   "Address1": "750 Central Park Ave, Ste 200",
+   "Address2": null,
+   "City": "Yonkers",
+   "Postal": 10704,
+   "Latitude": 40.924753,
+   "Longitude": -73.8561809
+ },
+ {
+   "Name": "Long Island City",
+   "Address1": "5130 Northern Blvd",
+   "Address2": null,
+   "City": "Woodside",
+   "Postal": 11377,
+   "Latitude": 40.75254,
+   "Longitude": -73.908694
+ },
+ {
+   "Name": "Middle Village (Queens)",
+   "Address1": "7325 Woodhaven Blvd",
+   "Address2": null,
+   "City": "Glendale",
+   "Postal": 11385,
+   "Latitude": 40.710185,
+   "Longitude": -73.8589969
+ },
+ {
+   "Name": "Waterbury",
+   "Address1": "425 Bank St",
+   "Address2": null,
+   "City": "Waterbury",
+   "Postal": 6708,
+   "Latitude": 41.5508787,
+   "Longitude": -73.0427571
+ },
+ {
+   "Name": "Third Avenue",
+   "Address1": "845 Third Ave",
+   "Address2": "51st and 3rd",
+   "City": "New York",
+   "Postal": 10022,
+   "Latitude": 40.756726,
+   "Longitude": -73.969901
+ },
+ {
+   "Name": "Commack",
+   "Address1": "124 Veterans Memorial Hwy",
+   "Address2": "King Kullen Plaza",
+   "City": "Commack",
+   "Postal": 11725,
+   "Latitude": 40.8391406,
+   "Longitude": -73.2801898
+ },
+ {
+   "Name": "West Nyack",
+   "Address1": "2272 Palisades Center Dr",
+   "Address2": null,
+   "City": "West Nyack",
+   "Postal": 10994,
+   "Latitude": 41.0982649,
+   "Longitude": -73.9532987
+ },
+ {
+   "Name": "Latham",
+   "Address1": "221 Wade Road Ext",
+   "Address2": null,
+   "City": "Latham",
+   "Postal": 12110,
+   "Latitude": 42.757813,
+   "Longitude": -73.767872
+ },
+ {
+   "Name": "Clay",
+   "Address1": "4000 State Route 31",
+   "Address2": "<b><font color=red>Location Now Closed</font></b>",
+   "City": "Liverpool",
+   "Postal": 13090,
+   "Latitude": 43.1854075,
+   "Longitude": -76.2352145
+ },
+ {
+   "Name": "Kingston",
+   "Address1": "1165 Ulster Ave",
+   "Address2": null,
+   "City": "Kingston",
+   "Postal": 12401,
+   "Latitude": 41.965097,
+   "Longitude": -73.9896174
+ },
+ {
+   "Name": "Albany",
+   "Address1": "161 Washington Avenue Ext",
+   "Address2": null,
+   "City": "Albany",
+   "Postal": 12205,
+   "Latitude": 42.6978549,
+   "Longitude": -73.847759
+ },
+ {
+   "Name": "Syracuse",
+   "Address1": "9090 Destiny USA Drive",
+   "Address2": "Destiny USA",
+   "City": "Syracuse",
+   "Postal": 13204,
+   "Latitude": 43.0697092,
+   "Longitude": -76.1731911
+ },
+ {
+   "Name": "Albuquerque - Montano",
+   "Address1": "4720 Alexander Blvd NE",
+   "Address2": null,
+   "City": "Albuquerque",
+   "Postal": 87107,
+   "Latitude": 35.1349098,
+   "Longitude": -106.6165231
+ },
+ {
+   "Name": "Albuquerque - Winrock",
+   "Address1": "2100 Louisiana Blvd NE",
+   "Address2": "Winrock Mall",
+   "City": "Albuquerque",
+   "Postal": 87110,
+   "Latitude": 35.1012889,
+   "Longitude": -106.5637207
+ },
+ {
+   "Name": "El Paso",
+   "Address1": "801 Sunland Park Dr, Unit 346",
+   "Address2": "Sunland Park",
+   "City": "El Paso",
+   "Postal": 79912,
+   "Latitude": 31.818393,
+   "Longitude": -106.547976
+ },
+ {
+   "Name": "White Marsh",
+   "Address1": "8200 Perry Hall Blvd",
+   "Address2": null,
+   "City": "Nottingham",
+   "Postal": 21236,
+   "Latitude": 39.3749563,
+   "Longitude": -76.4691568
+ },
+ {
+   "Name": "Catonsville",
+   "Address1": "6510 Baltimore National Pike",
+   "Address2": "Pike Park Plaza",
+   "City": "Baltimore",
+   "Postal": 21228,
+   "Latitude": 39.2859758,
+   "Longitude": -76.7623368
+ },
+ {
+   "Name": "Towson",
+   "Address1": "1238 Putty Hill Ave",
+   "Address2": null,
+   "City": "Towson",
+   "Postal": 21286,
+   "Latitude": 39.395335,
+   "Longitude": -76.581113
+ },
+ {
+   "Name": "Bowie",
+   "Address1": "4520 Mitchellville Rd",
+   "Address2": null,
+   "City": "Bowie",
+   "Postal": 20716,
+   "Latitude": 38.951946,
+   "Longitude": -76.72219
+ },
+ {
+   "Name": "Rockville",
+   "Address1": "12055 Rockville Pike",
+   "Address2": null,
+   "City": "Rockville",
+   "Postal": 20852,
+   "Latitude": 39.055354,
+   "Longitude": -77.1183481
+ },
+ {
+   "Name": "Waldorf",
+   "Address1": "3326 Crain Hwy",
+   "Address2": null,
+   "City": "Waldorf",
+   "Postal": 20603,
+   "Latitude": 38.620239,
+   "Longitude": -76.914969
+ },
+ {
+   "Name": "Frederick",
+   "Address1": "5425 Urbana Pike",
+   "Address2": null,
+   "City": "Frederick",
+   "Postal": 21704,
+   "Latitude": 39.380456,
+   "Longitude": -77.396878
+ },
+ {
+   "Name": "Gaithersburg",
+   "Address1": "110 Odendhal Ave",
+   "Address2": null,
+   "City": "Gaithersburg",
+   "Postal": 20877,
+   "Latitude": 39.149811,
+   "Longitude": -77.206144
+ },
+ {
+   "Name": "Laurel",
+   "Address1": "3335 Corridor Marketplace",
+   "Address2": null,
+   "City": "Laurel",
+   "Postal": 20724,
+   "Latitude": 39.0974365,
+   "Longitude": -76.8078456
+ },
+ {
+   "Name": "Landover",
+   "Address1": "1000 Shoppers Way",
+   "Address2": null,
+   "City": "Largo",
+   "Postal": 20774,
+   "Latitude": 38.9039234,
+   "Longitude": -76.8474955
+ },
+ {
+   "Name": "Tysons Corner",
+   "Address1": "8355 Leesburg Pike",
+   "Address2": null,
+   "City": "Vienna",
+   "Postal": 22182,
+   "Latitude": 38.921087,
+   "Longitude": -77.2345151
+ },
+ {
+   "Name": "Sterling",
+   "Address1": "21070 Southbank St",
+   "Address2": null,
+   "City": "Sterling",
+   "Postal": 20165,
+   "Latitude": 39.0328526,
+   "Longitude": -77.3985137
+ },
+ {
+   "Name": "Fredericksburg",
+   "Address1": "1461 Carl D Silver Pkwy",
+   "Address2": null,
+   "City": "Fredericksburg",
+   "Postal": 22401,
+   "Latitude": 38.303604,
+   "Longitude": -77.5078371
+ },
+ {
+   "Name": "Potomac Yards",
+   "Address1": "3701 Jefferson Davis Hwy, Unit 3",
+   "Address2": null,
+   "City": "Alexandria",
+   "Postal": 22305,
+   "Latitude": 38.8387276,
+   "Longitude": -77.0519296
+ },
+ {
+   "Name": "Norfolk",
+   "Address1": "5900 E Virginia Beach Blvd, Ste 226",
+   "Address2": null,
+   "City": "Norfolk",
+   "Postal": 23502,
+   "Latitude": 36.8596164,
+   "Longitude": -76.2048918
+ },
+ {
+   "Name": "Hampton Roads",
+   "Address1": "2106 Coliseum Dr",
+   "Address2": null,
+   "City": "Hampton",
+   "Postal": 23666,
+   "Latitude": 37.0470987,
+   "Longitude": -76.3906611
+ },
+ {
+   "Name": "Lynnhaven",
+   "Address1": "2720 North Mall Dr, Ste 100",
+   "Address2": null,
+   "City": "Virginia Beach",
+   "Postal": 23452,
+   "Latitude": 36.820729,
+   "Longitude": -76.069705
+ },
+ {
+   "Name": "Gainesville",
+   "Address1": "5085 Wellington Rd",
+   "Address2": null,
+   "City": "Gainesville",
+   "Postal": 20155,
+   "Latitude": 38.7912314,
+   "Longitude": -77.60641
+ },
+ {
+   "Name": "Kennewick",
+   "Address1": "908C N Colorado St",
+   "Address2": null,
+   "City": "Kennewick",
+   "Postal": 99336,
+   "Latitude": 46.2183287,
+   "Longitude": -119.2232675
+ },
+ {
+   "Name": "Spokane Northpointe",
+   "Address1": "9620 N Newport Hwy",
+   "Address2": "Northpointe Plaza",
+   "City": "Spokane",
+   "Postal": 99218,
+   "Latitude": 47.7448364,
+   "Longitude": -117.4063597
+ },
+ {
+   "Name": "Spokane East",
+   "Address1": "15118 E Indiana Ave",
+   "Address2": "Hanson Center",
+   "City": "Spokane",
+   "Postal": 99216,
+   "Latitude": 47.670928,
+   "Longitude": -117.200892
+ },
+ {
+   "Name": "Bellevue S/S",
+   "Address1": "44 Bellevue Way NE",
+   "Address2": "Lakeside Holdings",
+   "City": "Bellevue",
+   "Postal": 98004,
+   "Latitude": 47.6103569,
+   "Longitude": -122.2013395
+ },
+ {
+   "Name": "Puyallup",
+   "Address1": "4423 S Meridian",
+   "Address2": "Meridian Place",
+   "City": "Puyallup",
+   "Postal": 98373,
+   "Latitude": 47.164574,
+   "Longitude": -122.2932131
+ },
+ {
+   "Name": "Tukwila",
+   "Address1": "17450 Southcenter Pkwy",
+   "Address2": "Parkway Supercenter",
+   "City": "Tukwila",
+   "Postal": 98188,
+   "Latitude": 47.4490045,
+   "Longitude": -122.2624521
+ },
+ {
+   "Name": "Everett",
+   "Address1": "505 SE Everett Mall Way, Ste1",
+   "Address2": "Greentree Plaza",
+   "City": "Everett",
+   "Postal": 98208,
+   "Latitude": 47.8962246,
+   "Longitude": -122.1853637
+ },
+ {
+   "Name": "Northgate North",
+   "Address1": "328 NE Northgate Way",
+   "Address2": "Northgate North Shopping Center",
+   "City": "Seattle",
+   "Postal": 98125,
+   "Latitude": 47.7086702,
+   "Longitude": -122.3251252
+ },
+ {
+   "Name": "Lake Stevens",
+   "Address1": "519 Highway 9",
+   "Address2": "Frontier Village Shopping Center",
+   "City": "Lake Stevens",
+   "Postal": 98258,
+   "Latitude": 48.0006074,
+   "Longitude": -122.1059404
+ },
+ {
+   "Name": "Bellevue",
+   "Address1": "15600 NE 8th St, Ste S",
+   "Address2": "Crossroads Mall",
+   "City": "Bellevue",
+   "Postal": 98008,
+   "Latitude": 47.6173462,
+   "Longitude": -122.1314793
+ },
+ {
+   "Name": "Auburn",
+   "Address1": "1101 SuperMall Way, Ste 1333",
+   "Address2": "The Outlet Collection - Seattle",
+   "City": "Auburn",
+   "Postal": 98001,
+   "Latitude": 47.2989903,
+   "Longitude": -122.2456943
+ },
+ {
+   "Name": "Issaquah",
+   "Address1": "1185 NW Gilman Blvd",
+   "Address2": "Town & Country",
+   "City": "Issaquah",
+   "Postal": 98027,
+   "Latitude": 47.545589,
+   "Longitude": -122.056374
+ },
+ {
+   "Name": "Wasilla",
+   "Address1": "1841 George Parks Hwy",
+   "Address2": "Cottonwood Creek Place",
+   "City": "Wasilla",
+   "Postal": 99654,
+   "Latitude": 61.5794249,
+   "Longitude": -149.4978329
+ },
+ {
+   "Name": "Anchorage",
+   "Address1": "8931 Old Seward Hwy",
+   "Address2": null,
+   "City": "Anchorage",
+   "Postal": 99515,
+   "Latitude": 61.139631,
+   "Longitude": -149.8601459
+ },
+ {
+   "Name": "Glenn Hwy",
+   "Address1": "1200 N Muldoon Rd, Ste E",
+   "Address2": "Tikahtnu Commons",
+   "City": "Anchorage",
+   "Postal": 99504,
+   "Latitude": 61.2297936,
+   "Longitude": -149.7464607
+ },
+ {
+   "Name": "Fairbanks",
+   "Address1": "391 Merhar Ave",
+   "Address2": "Sadler Center",
+   "City": "Fairbanks",
+   "Postal": 99701,
+   "Latitude": 64.8570053,
+   "Longitude": -147.7042469
+ },
+ {
+   "Name": "Gurnee Mills",
+   "Address1": "6170 W. Grand Avenue",
+   "Address2": "Gurnee Mills Mall",
+   "City": "Gurnee",
+   "Postal": 60031,
+   "Latitude": 42.3832942,
+   "Longitude": -87.9550674
+ },
+ {
+   "Name": "Burbank",
+   "Address1": "7720 S Cicero Ave",
+   "Address2": "Burbank Station",
+   "City": "Burbank",
+   "Postal": 60459,
+   "Latitude": 41.7524182,
+   "Longitude": -87.7415717
+ },
+ {
+   "Name": "Reno",
+   "Address1": "4813 Kietzke Ln",
+   "Address2": "Firecreek Crossing",
+   "City": "Reno",
+   "Postal": 89509,
+   "Latitude": 39.4828699,
+   "Longitude": -119.7909667
+ },
+ {
+   "Name": "Broadview",
+   "Address1": "400 Broadview Village Sq",
+   "Address2": "Broadview Village Square",
+   "City": "Broadview",
+   "Postal": 60155,
+   "Latitude": 41.852563,
+   "Longitude": -87.851214
+ },
+ {
+   "Name": "Yorktown Center",
+   "Address1": "173 Yorktown Ctr",
+   "Address2": "Yorktown Center",
+   "City": "Lombard",
+   "Postal": 60148,
+   "Latitude": 41.8398433,
+   "Longitude": -88.0032194
+ },
+ {
+   "Name": "Aurora",
+   "Address1": "301 S Route 59",
+   "Address2": "Aurora Market Place",
+   "City": "Aurora",
+   "Postal": 60504,
+   "Latitude": 41.7519723,
+   "Longitude": -88.2061167
+ },
+ {
+   "Name": "Geneva",
+   "Address1": "1777 S Randall Rd",
+   "Address2": null,
+   "City": "Geneva",
+   "Postal": 60134,
+   "Latitude": 41.869859,
+   "Longitude": -88.339366
+ },
+ {
+   "Name": "Fullerton Avenue",
+   "Address1": "1801 W Fullerton Ave",
+   "Address2": "Riverpoint Mall",
+   "City": "Chicago",
+   "Postal": 60614,
+   "Latitude": 41.923971,
+   "Longitude": -87.672658
+ },
+ {
+   "Name": "Crystal Lake West",
+   "Address1": "6000 Northwest Hwy, Ste 25",
+   "Address2": "Crystal Pointe Plaza",
+   "City": "Crystal Lake",
+   "Postal": 60014,
+   "Latitude": 42.2263797,
+   "Longitude": -88.314026
+ },
+ {
+   "Name": "Clinton Township",
+   "Address1": "33930 S Gratiot Ave",
+   "Address2": null,
+   "City": "Clinton Township",
+   "Postal": 48035,
+   "Latitude": 42.5466837,
+   "Longitude": -82.9041361
+ },
+ {
+   "Name": "Dearborn",
+   "Address1": "5751 Mercury Dr",
+   "Address2": null,
+   "City": "Dearborn",
+   "Postal": 48126,
+   "Latitude": 42.3279204,
+   "Longitude": -83.2044648
+ },
+ {
+   "Name": "Flint",
+   "Address1": "4095 Miller Rd",
+   "Address2": null,
+   "City": "Flint",
+   "Postal": 48507,
+   "Latitude": 42.980567,
+   "Longitude": -83.754586
+ },
+ {
+   "Name": "Omaha Maple Rd",
+   "Address1": "17021 Evans Plz",
+   "Address2": "Whispering Ridge Shopping Plaza",
+   "City": "Omaha",
+   "Postal": 68116,
+   "Latitude": 41.2913391,
+   "Longitude": -96.1800577
+ },
+ {
+   "Name": "Omaha 72nd Street",
+   "Address1": "885 S 72nd St",
+   "Address2": null,
+   "City": "Omaha",
+   "Postal": 68114,
+   "Latitude": 41.2518839,
+   "Longitude": -96.0225148
+ },
+ {
+   "Name": "Bolingbrook",
+   "Address1": "257 N Weber Rd",
+   "Address2": "Maple Park Place",
+   "City": "Bolingbrook",
+   "Postal": 60490,
+   "Latitude": 41.7031384,
+   "Longitude": -88.1297342
+ },
+ {
+   "Name": "Niles",
+   "Address1": "7233 W Dempster St",
+   "Address2": null,
+   "City": "Niles",
+   "Postal": 60714,
+   "Latitude": 42.0406999,
+   "Longitude": -87.8072746
+ },
+ {
+   "Name": "Calumet City",
+   "Address1": "1510 Torrence Ave",
+   "Address2": null,
+   "City": "Calumet City",
+   "Postal": 60409,
+   "Latitude": 41.5903605,
+   "Longitude": -87.5588591
+ },
+ {
+   "Name": "Oak Lawn",
+   "Address1": "9633 S Cicero Ave",
+   "Address2": "Green Oak Shopping Center",
+   "City": "Oak Lawn",
+   "Postal": 60453,
+   "Latitude": 41.716907,
+   "Longitude": -87.739231
+ },
+ {
+   "Name": "Schaumburg",
+   "Address1": "1015 E Golf Rd",
+   "Address2": null,
+   "City": "Schaumburg",
+   "Postal": 60173,
+   "Latitude": 42.0500694,
+   "Longitude": -88.0544262
+ },
+ {
+   "Name": "Clark Street",
+   "Address1": "3134 N Clark St",
+   "Address2": null,
+   "City": "Chicago",
+   "Postal": 60657,
+   "Latitude": 41.9381672,
+   "Longitude": -87.64924070000001
+ },
+ {
+   "Name": "Crystal Lake East",
+   "Address1": "4804 Cog Cir",
+   "Address2": null,
+   "City": "Crystal Lake",
+   "Postal": 60014,
+   "Latitude": 42.2272344,
+   "Longitude": -88.289358
+ },
+ {
+   "Name": "Orland Hills",
+   "Address1": "9231 W. 159th Street",
+   "Address2": null,
+   "City": "Orland Hills",
+   "Postal": 60487,
+   "Latitude": 41.6014568,
+   "Longitude": -87.8456036
+ },
+ {
+   "Name": "Bricktown",
+   "Address1": "6420 W Fullerton Ave, Ste B-100",
+   "Address2": "Bricktown Square",
+   "City": "Chicago",
+   "Postal": 60707,
+   "Latitude": 41.9236493,
+   "Longitude": -87.7876955
+ },
+ {
+   "Name": "Merrilville",
+   "Address1": "3201 E Lincoln Hwy",
+   "Address2": null,
+   "City": "Merrillville",
+   "Postal": 46410,
+   "Latitude": 41.4698,
+   "Longitude": -87.296089
+ },
+ {
+   "Name": "North Riverside",
+   "Address1": "1800 Harlem Ave",
+   "Address2": null,
+   "City": "North Riverside",
+   "Postal": 60546,
+   "Latitude": 41.8552626,
+   "Longitude": -87.8039685
+ },
+ {
+   "Name": "Hoffman Estates",
+   "Address1": "4700 Hoffman Blvd",
+   "Address2": null,
+   "City": "Hoffman Estates",
+   "Postal": 60192,
+   "Latitude": 42.0672683,
+   "Longitude": -88.2029702
+ },
+ {
+   "Name": "Vernon Hills",
+   "Address1": "155 E Townline Rd",
+   "Address2": null,
+   "City": "Vernon Hills",
+   "Postal": 60061,
+   "Latitude": 42.239009,
+   "Longitude": -87.960874
+ },
+ {
+   "Name": "Glendale Heights",
+   "Address1": "125 Army Trail Rd",
+   "Address2": null,
+   "City": "Glendale Heights",
+   "Postal": 60139,
+   "Latitude": 41.937577,
+   "Longitude": -88.097058
+ },
+ {
+   "Name": "Deerfield",
+   "Address1": "120 S Waukegan Rd",
+   "Address2": "Deerbrook Mall",
+   "City": "Deerfield",
+   "Postal": 60015,
+   "Latitude": 42.1547455,
+   "Longitude": -87.8368422
+ },
+ {
+   "Name": "LaSalle Street",
+   "Address1": "620 N LaSalle St",
+   "Address2": null,
+   "City": "Chicago",
+   "Postal": 60654,
+   "Latitude": 41.8929827,
+   "Longitude": -87.6328498
+ },
+ {
+   "Name": "Springfield",
+   "Address1": "3211 S Veterans Pkwy",
+   "Address2": null,
+   "City": "Springfield",
+   "Postal": 62704,
+   "Latitude": 39.7574397,
+   "Longitude": -89.7082581
+ },
+ {
+   "Name": "Mt. Prospect",
+   "Address1": "1033 N Elmhurst Rd",
+   "Address2": "Randhurst Village Shopping Center",
+   "City": "Mount Prospect",
+   "Postal": 60056,
+   "Latitude": 42.0840529,
+   "Longitude": -87.9366957
+ },
+ {
+   "Name": "Auburn Hills",
+   "Address1": "4220 Baldwin Rd ",
+   "Address2": "Great Lakes Crossing",
+   "City": "Auburn Hills",
+   "Postal": 48326,
+   "Latitude": 42.7011478,
+   "Longitude": -83.3065301
+ },
+ {
+   "Name": "Greenfield",
+   "Address1": "5070 S 74th St",
+   "Address2": "Greenfield Place",
+   "City": "Greenfield",
+   "Postal": 53220,
+   "Latitude": 42.9528659,
+   "Longitude": -88.0062769
+ },
+ {
+   "Name": "Brookfield",
+   "Address1": "16220 W Bluemound Rd",
+   "Address2": null,
+   "City": "Brookfield",
+   "Postal": 53005,
+   "Latitude": 43.03687,
+   "Longitude": -88.115458
+ },
+ {
+   "Name": "Des Moines",
+   "Address1": "4100 University Ave",
+   "Address2": "Water Tower Place",
+   "City": "West Des Moines",
+   "Postal": 50266,
+   "Latitude": 41.5981783,
+   "Longitude": -93.7597368
+ },
+ {
+   "Name": "Omaha L Street",
+   "Address1": "12200 K Plz",
+   "Address2": "L Street Marketplace",
+   "City": "Omaha",
+   "Postal": 68137,
+   "Latitude": 41.2133982,
+   "Longitude": -96.1035094
+ },
+ {
+   "Name": "Matteson",
+   "Address1": "4832 211th St",
+   "Address2": "Matteson Square",
+   "City": "Matteson",
+   "Postal": 60443,
+   "Latitude": 41.5062421,
+   "Longitude": -87.7331618
+ },
+ {
+   "Name": "Frankfort",
+   "Address1": "11185 W Lincoln Hwy",
+   "Address2": "Praire Crossing",
+   "City": "Frankfort",
+   "Postal": 60423,
+   "Latitude": 41.5031041,
+   "Longitude": -87.8880233
+ },
+ {
+   "Name": "Willowbrook",
+   "Address1": "7125 S Kingery Hwy",
+   "Address2": null,
+   "City": "Willowbrook",
+   "Postal": 60527,
+   "Latitude": 41.7590938,
+   "Longitude": -87.9446077
+ },
+ {
+   "Name": "Delafield",
+   "Address1": "2950 Golf Rd",
+   "Address2": "Nagawaukee Center",
+   "City": "Delafield",
+   "Postal": 53018,
+   "Latitude": 43.0539029,
+   "Longitude": -88.3713423
+ },
+ {
+   "Name": "Burbank",
+   "Address1": "1900 W Empire Ave",
+   "Address2": "Ste R12",
+   "City": "Burbank",
+   "Postal": 91504,
+   "Latitude": 34.1917311,
+   "Longitude": -118.331408
+ },
+ {
+   "Name": "Hawthorne",
+   "Address1": "14555 Ocean Gate Ave",
+   "Address2": null,
+   "City": "Hawthorne",
+   "Postal": 90250,
+   "Latitude": 33.899745,
+   "Longitude": -118.369287
+ },
+ {
+   "Name": "Fountain Valley",
+   "Address1": "9065 Warner Ave",
+   "Address2": null,
+   "City": "Fountain Valley",
+   "Postal": 92708,
+   "Latitude": 33.716459,
+   "Longitude": -117.969591
+ },
+ {
+   "Name": "Santa Ana",
+   "Address1": "3900 S Bristol St",
+   "Address2": null,
+   "City": "Santa Ana",
+   "Postal": 92704,
+   "Latitude": 33.6957131,
+   "Longitude": -117.8856292
+ },
+ {
+   "Name": "North Fontana",
+   "Address1": "15248 Summit Ave",
+   "Address2": null,
+   "City": "Fontana",
+   "Postal": 92336,
+   "Latitude": 34.1502132,
+   "Longitude": -117.4722818
+ },
+ {
+   "Name": "Long Beach",
+   "Address1": "6346 E Pacific Coast Hwy,",
+   "Address2": "Ste A",
+   "City": "Long Beach",
+   "Postal": 90803,
+   "Latitude": 33.7598203,
+   "Longitude": -118.1137955
+ },
+ {
+   "Name": "West L.A.",
+   "Address1": "1919 S Sepulveda Blvd",
+   "Address2": null,
+   "City": "West Los Angeles",
+   "Postal": 90025,
+   "Latitude": 34.0440116,
+   "Longitude": -118.441345
+ },
+ {
+   "Name": "Cerritos",
+   "Address1": "11900 South St",
+   "Address2": null,
+   "City": "Cerritos",
+   "Postal": 90703,
+   "Latitude": 33.857309,
+   "Longitude": -118.079212
+ },
+ {
+   "Name": "Balboa",
+   "Address1": "7725 Balboa Ave",
+   "Address2": null,
+   "City": "San Diego",
+   "Postal": 92111,
+   "Latitude": 32.820836,
+   "Longitude": -117.158416
+ },
+ {
+   "Name": "Fullerton",
+   "Address1": "1515 S Harbor Blvd",
+   "Address2": null,
+   "City": "Fullerton",
+   "Postal": 92832,
+   "Latitude": 33.8561389,
+   "Longitude": -117.9244256
+ },
+ {
+   "Name": "San Bernardino",
+   "Address1": "897 Harriman Pl",
+   "Address2": null,
+   "City": "San Bernardino",
+   "Postal": 92408,
+   "Latitude": 34.0662014,
+   "Longitude": -117.2646548
+ },
+ {
+   "Name": "Riverside",
+   "Address1": "3380 Tyler St",
+   "Address2": null,
+   "City": "Riverside",
+   "Postal": 92503,
+   "Latitude": 33.905051,
+   "Longitude": -117.45715
+ },
+ {
+   "Name": "Montclair",
+   "Address1": "5445 Moreno St",
+   "Address2": null,
+   "City": "Montclair",
+   "Postal": 91763,
+   "Latitude": 34.0886135,
+   "Longitude": -117.6866899
+ },
+ {
+   "Name": "Carmel Mountain",
+   "Address1": "11690 Carmel Mountain Rd",
+   "Address2": null,
+   "City": "San Diego",
+   "Postal": 92128,
+   "Latitude": 32.9796594,
+   "Longitude": -117.0797384
+ },
+ {
+   "Name": "Moreno Valley",
+   "Address1": "12500 Day St",
+   "Address2": null,
+   "City": "Moreno Valley",
+   "Postal": 92553,
+   "Latitude": 33.9395748,
+   "Longitude": -117.2786895
+ },
+ {
+   "Name": "Temecula",
+   "Address1": "32413 Temecula Pkwy, Ste 400",
+   "Address2": null,
+   "City": "Temecula",
+   "Postal": 92592,
+   "Latitude": 33.4826196,
+   "Longitude": -117.0913942
+ },
+ {
+   "Name": "Mission Viejo",
+   "Address1": "25462 El Paseo",
+   "Address2": null,
+   "City": "Mission Viejo",
+   "Postal": 92691,
+   "Latitude": 33.5905303,
+   "Longitude": -117.672786
+ },
+ {
+   "Name": "Torrance",
+   "Address1": "3610 Torrance Blvd",
+   "Address2": null,
+   "City": "Torrance",
+   "Postal": 90503,
+   "Latitude": 33.836929,
+   "Longitude": -118.350136
+ },
+ {
+   "Name": "Canoga Park",
+   "Address1": "21301 Victory Blvd, ",
+   "Address2": "Warner Center Marketplace",
+   "City": "Canoga Park",
+   "Postal": 91303,
+   "Latitude": 34.1883752,
+   "Longitude": -118.5974211
+ },
+ {
+   "Name": "Murrieta",
+   "Address1": "24490 Village Walk Pl",
+   "Address2": null,
+   "City": "Murrieta",
+   "Postal": 92562,
+   "Latitude": 33.5654182,
+   "Longitude": -117.2119489
+ },
+ {
+   "Name": "Santa Barbara",
+   "Address1": "7035 Market Place Dr",
+   "Address2": null,
+   "City": "Goleta",
+   "Postal": 93117,
+   "Latitude": 34.4285148,
+   "Longitude": -119.873816
+ },
+ {
+   "Name": "Tustin",
+   "Address1": "13702 Jamboree Rd, Market Place 2, Retail # 6",
+   "Address2": null,
+   "City": "Irvine",
+   "Postal": 92602,
+   "Latitude": 33.7514861,
+   "Longitude": -117.7549295
+ },
+ {
+   "Name": "Corona",
+   "Address1": "2437 Tuscany St",
+   "Address2": null,
+   "City": "Corona",
+   "Postal": 92881,
+   "Latitude": 33.825093,
+   "Longitude": -117.520211
+ },
+ {
+   "Name": "Stockton",
+   "Address1": "10536 Trinity Pkwy",
+   "Address2": null,
+   "City": "Stockton",
+   "Postal": 95219,
+   "Latitude": 38.0522039,
+   "Longitude": -121.3751797
+ },
+ {
+   "Name": "Gilroy",
+   "Address1": "6735 Camino Arroyo",
+   "Address2": null,
+   "City": "Gilroy",
+   "Postal": 95020,
+   "Latitude": 37.0025731,
+   "Longitude": -121.5509879
+ },
+ {
+   "Name": "Elk Grove",
+   "Address1": "8217 Laguna Blvd",
+   "Address2": null,
+   "City": "Elk Grove",
+   "Postal": 95758,
+   "Latitude": 38.423725,
+   "Longitude": -121.405032
+ },
+ {
+   "Name": "Redding",
+   "Address1": "1347 Churn Creek Rd",
+   "Address2": null,
+   "City": "Redding",
+   "Postal": 96003,
+   "Latitude": 40.5876427,
+   "Longitude": -122.3506353
+ },
+ {
+   "Name": "San Leandro",
+   "Address1": "1933 Davis St",
+   "Address2": null,
+   "City": "San Leandro",
+   "Postal": 94577,
+   "Latitude": 37.7154162,
+   "Longitude": -122.1790838
+ },
+ {
+   "Name": "San Jose",
+   "Address1": "680 Blossom Hill Rd",
+   "Address2": null,
+   "City": "San Jose",
+   "Postal": 95123,
+   "Latitude": 37.250414,
+   "Longitude": -121.8451254
+ },
+ {
+   "Name": "Concord",
+   "Address1": "1235 Concord Ave",
+   "Address2": null,
+   "City": "Concord",
+   "Postal": 94520,
+   "Latitude": 37.9813807,
+   "Longitude": -122.0528026
+ },
+ {
+   "Name": "Sunnyvale",
+   "Address1": "125 E El Camino Real",
+   "Address2": null,
+   "City": "Sunnyvale",
+   "Postal": 94086,
+   "Latitude": 37.3669733,
+   "Longitude": -122.0291463
+ },
+ {
+   "Name": "Vacaville",
+   "Address1": "1071 Helen Power Dr",
+   "Address2": null,
+   "City": "Vacaville",
+   "Postal": 95687,
+   "Latitude": 38.3659288,
+   "Longitude": -121.9619509
+ },
+ {
+   "Name": "Sacramento",
+   "Address1": "1700 Arden Way",
+   "Address2": null,
+   "City": "Sacramento",
+   "Postal": 95815,
+   "Latitude": 38.5977109,
+   "Longitude": -121.427086
+ },
+ {
+   "Name": "Santa Rosa",
+   "Address1": "1970 Santa Rosa Ave",
+   "Address2": null,
+   "City": "Santa Rosa",
+   "Postal": 95407,
+   "Latitude": 38.4204131,
+   "Longitude": -122.7134968
+ },
+ {
+   "Name": "San Mateo",
+   "Address1": "2250 Bridgepointe Pkwy",
+   "Address2": null,
+   "City": "San Mateo",
+   "Postal": 94404,
+   "Latitude": 37.5620631,
+   "Longitude": -122.2820147
+ },
+ {
+   "Name": "Modesto",
+   "Address1": "3501 McHenry Ave, Ste G-1",
+   "Address2": null,
+   "City": "Modesto",
+   "Postal": 95356,
+   "Latitude": 37.6891074,
+   "Longitude": -120.9943003
+ },
+ {
+   "Name": "Bakersfield",
+   "Address1": "4821 Ming Ave",
+   "Address2": null,
+   "City": "Bakersfield",
+   "Postal": 93309,
+   "Latitude": 35.338749,
+   "Longitude": -119.055515
+ },
+ {
+   "Name": "Natomas",
+   "Address1": "3631 N Freeway Blvd",
+   "Address2": null,
+   "City": "Sacramento",
+   "Postal": 95834,
+   "Latitude": 38.6393782,
+   "Longitude": -121.4972431
+ },
+ {
+   "Name": "Union City",
+   "Address1": "31200 Courthouse Dr",
+   "Address2": null,
+   "City": "Union City",
+   "Postal": 94587,
+   "Latitude": 37.6023055,
+   "Longitude": -122.0667693
+ },
+ {
+   "Name": "San Francisco",
+   "Address1": "1690 Folsom St",
+   "Address2": null,
+   "City": "San Francisco",
+   "Postal": 94103,
+   "Latitude": 37.770138,
+   "Longitude": -122.415983
+ },
+ {
+   "Name": "Novato",
+   "Address1": "212 Vintage Way, Building L-1",
+   "Address2": null,
+   "City": "Novato",
+   "Postal": 94945,
+   "Latitude": 38.090817,
+   "Longitude": -122.5562383
+ },
+ {
+   "Name": "Mall of the Bay",
+   "Address1": "1200 Great Mall Dr",
+   "Address2": null,
+   "City": "Milpitas",
+   "Postal": 95035,
+   "Latitude": 37.4145561,
+   "Longitude": -121.9003465
+ },
+ {
+   "Name": "La Habra Mktpl",
+   "Address1": "1531 W Imperial Hwy",
+   "Address2": null,
+   "City": "La Habra",
+   "Postal": 90631,
+   "Latitude": 33.918417,
+   "Longitude": -117.961536
+ },
+ {
+   "Name": "West Lake Village",
+   "Address1": "120 S Westlake Blvd",
+   "Address2": null,
+   "City": "Westlake Village",
+   "Postal": 91362,
+   "Latitude": 34.1595909,
+   "Longitude": -118.8233706
+ },
+ {
+   "Name": "Camarillo Ctr",
+   "Address1": "351 W Ventura Blvd, Space M-1",
+   "Address2": null,
+   "City": "Camarillo",
+   "Postal": 93010,
+   "Latitude": 34.2171214,
+   "Longitude": -119.0758491
+ },
+ {
+   "Name": "Palm Desert",
+   "Address1": "72519 Highway 111",
+   "Address2": null,
+   "City": "Palm Desert",
+   "Postal": 92260,
+   "Latitude": 33.724463,
+   "Longitude": -116.403988
+ },
+ {
+   "Name": "Grossmont Ctr",
+   "Address1": "5500 Grossmont Center Dr",
+   "Address2": "Ste 279",
+   "City": "La Mesa",
+   "Postal": 91942,
+   "Latitude": 32.779644,
+   "Longitude": -117.010081
+ },
+ {
+   "Name": "Camelback Road",
+   "Address1": "1625 E Camelback Rd",
+   "Address2": null,
+   "City": "Phoenix",
+   "Postal": 85016,
+   "Latitude": 33.5078249,
+   "Longitude": -112.046465
+ },
+ {
+   "Name": "Arizona Mills",
+   "Address1": "5000 S Arizona Mills Cir, Ste 135",
+   "Address2": "Arizona Mills Mall",
+   "City": "Tempe",
+   "Postal": 85282,
+   "Latitude": 33.383123,
+   "Longitude": -111.964485
+ },
+ {
+   "Name": "No. Scottsdale",
+   "Address1": "7000 E Mayo Blvd, Bldg 15",
+   "Address2": null,
+   "City": "Phoenix",
+   "Postal": 85054,
+   "Latitude": 33.6556823,
+   "Longitude": -111.9300145
+ },
+ {
+   "Name": "Avondale",
+   "Address1": "10050 W McDowell Rd",
+   "Address2": "Gateway Pavilions",
+   "City": "Avondale",
+   "Postal": 85392,
+   "Latitude": 33.4647708,
+   "Longitude": -112.2764349
+ },
+ {
+   "Name": "Chandler",
+   "Address1": "3455 W Frye Rd",
+   "Address2": "Chandler Village Center",
+   "City": "Chandler",
+   "Postal": 85226,
+   "Latitude": 33.2958109,
+   "Longitude": -111.90167339999999
+ },
+ {
+   "Name": "E Tucson",
+   "Address1": "7160 E Broadway Blvd",
+   "Address2": "Circle Plaza",
+   "City": "Tucson",
+   "Postal": 85710,
+   "Latitude": 32.2208424,
+   "Longitude": -110.8391725
+ },
+ {
+   "Name": "Casa Grande",
+   "Address1": "1004 N Promenade Pkwy, Ste 159",
+   "Address2": "Promenade at Casa Grande",
+   "City": "Casa Grande",
+   "Postal": 85194,
+   "Latitude": 32.88385,
+   "Longitude": -111.68175
+ },
+ {
+   "Name": "Yuma",
+   "Address1": "1448 S Yuma Palms Pkwy",
+   "Address2": "Yuma Palms Mall",
+   "City": "Yuma",
+   "Postal": 85365,
+   "Latitude": 32.7025495,
+   "Longitude": -114.6064795
+ },
+ {
+   "Name": "Roseville",
+   "Address1": "1750 Highway 36 W",
+   "Address2": null,
+   "City": "Roseville",
+   "Postal": 55113,
+   "Latitude": 45.0100267,
+   "Longitude": -93.1724471
+ },
+ {
+   "Name": "Minnetonka",
+   "Address1": "12380 Wayzata Blvd",
+   "Address2": null,
+   "City": "Minnetonka",
+   "Postal": 55305,
+   "Latitude": 44.972019,
+   "Longitude": -93.434789
+ },
+ {
+   "Name": "Burnsville",
+   "Address1": "1300 County Road 42 W",
+   "Address2": "Burnhill Plaza",
+   "City": "Burnsville",
+   "Postal": 55337,
+   "Latitude": 44.7479602,
+   "Longitude": -93.2957937
+ },
+ {
+   "Name": "Richfield",
+   "Address1": "1150 W 78th St",
+   "Address2": "Shops at Lyndale",
+   "City": "Richfield",
+   "Postal": 55423,
+   "Latitude": 44.862575,
+   "Longitude": -93.2943669
+ },
+ {
+   "Name": "Rochester",
+   "Address1": "80 25th St SE",
+   "Address2": null,
+   "City": "Rochester",
+   "Postal": 55904,
+   "Latitude": 43.9854138,
+   "Longitude": -92.4588037
+ },
+ {
+   "Name": "Maple Grove",
+   "Address1": "12530 Elm Creek Blvd N",
+   "Address2": null,
+   "City": "Maple Grove",
+   "Postal": 55369,
+   "Latitude": 45.0942567,
+   "Longitude": -93.4364588
+ },
+ {
+   "Name": "Coon Rapids North",
+   "Address1": "3420  124th Ave NW",
+   "Address2": "Riverdale Mall",
+   "City": "Coon Rapids",
+   "Postal": 55433,
+   "Latitude": 45.1966821,
+   "Longitude": -93.3536761
+ },
+ {
+   "Name": "Eden Prairie",
+   "Address1": "Fountain Place",
+   "Address2": "12595 Castlemoor Dr",
+   "City": "Eden Prairie",
+   "Postal": 55344,
+   "Latitude": 44.84899,
+   "Longitude": -93.4376379
+ },
+ {
+   "Name": "Woodbury",
+   "Address1": "8323 3rd St N",
+   "Address2": "Oakdale Commons",
+   "City": "Oakdale",
+   "Postal": 55128,
+   "Latitude": 44.9507674,
+   "Longitude": -92.9459288
+ },
+ {
+   "Name": "East Palo Alto",
+   "Address1": "1775 E Bayshore Rd",
+   "Address2": null,
+   "City": "East Palo Alto",
+   "Postal": 94303,
+   "Latitude": 37.4584598,
+   "Longitude": -122.1366485
+ },
+ {
+   "Name": "Stevens Creek",
+   "Address1": "5170 Stevens Creek Blvd",
+   "Address2": null,
+   "City": "San Jose",
+   "Postal": 95129,
+   "Latitude": 37.3229785,
+   "Longitude": -121.9936838
+ },
+ {
+   "Name": "Tacoma",
+   "Address1": "1905 S 72nd St, Ste B",
+   "Address2": null,
+   "City": "Tacoma",
+   "Postal": 98408,
+   "Latitude": 47.1916148,
+   "Longitude": -122.4609369
+ },
+ {
+   "Name": "Lynnwood East",
+   "Address1": "19800 44th Ave W",
+   "Address2": "Lynnwood Square",
+   "City": "Lynnwood",
+   "Postal": 98036,
+   "Latitude": 47.819718,
+   "Longitude": -122.294164
+ },
+ {
+   "Name": "Beaverton",
+   "Address1": "3485 SW Cedar Hills Blvd",
+   "Address2": "Cedar Hills Crossing",
+   "City": "Beaverton",
+   "Postal": 97005,
+   "Latitude": 45.49464,
+   "Longitude": -122.8098807
+ },
+ {
+   "Name": "Clackamas",
+   "Address1": "8658 SE Sunnyside Rd",
+   "Address2": "Clackamas Promenade",
+   "City": "Clackamas",
+   "Postal": 97015,
+   "Latitude": 45.430774,
+   "Longitude": -122.5737
+ },
+ {
+   "Name": "Salem",
+   "Address1": "831 Lancaster Dr NE, Ste 183",
+   "Address2": "Lancaster Mall",
+   "City": "Salem",
+   "Postal": 97301,
+   "Latitude": 44.9419844,
+   "Longitude": -122.985087
+ },
+ {
+   "Name": "Cascade Station",
+   "Address1": "10245 NE Cascades Pkwy",
+   "Address2": "Cascade Station",
+   "City": "Portland",
+   "Postal": 97220,
+   "Latitude": 45.5738989,
+   "Longitude": -122.5567004
+ },
+ {
+   "Name": "Jantzen Beach",
+   "Address1": "1855 N. Tomahawk Island Drive",
+   "Address2": null,
+   "City": "Portland",
+   "Postal": 97217,
+   "Latitude": 45.6126655,
+   "Longitude": -122.6852907
+ },
+ {
+   "Name": "Eugene",
+   "Address1": "245 Valley River Ctr",
+   "Address2": "Valley River Center",
+   "City": "Eugene",
+   "Postal": 97401,
+   "Latitude": 44.0693845,
+   "Longitude": -123.108119
+ },
+ {
+   "Name": "Medford",
+   "Address1": "1600 N Riverside Ave",
+   "Address2": "Rogue Valley Mall",
+   "City": "Medford",
+   "Postal": 97501,
+   "Latitude": 42.345271,
+   "Longitude": -122.8775525
+ },
+ {
+   "Name": "Hillsboro",
+   "Address1": "18085 NW Evergreen Pkwy",
+   "Address2": null,
+   "City": "Hillsboro",
+   "Postal": 97006,
+   "Latitude": 45.538444,
+   "Longitude": -122.862983
+ },
+ {
+   "Name": "Dublin",
+   "Address1": "6285 Sawmill Rd",
+   "Address2": null,
+   "City": "Dublin",
+   "Postal": 43017,
+   "Latitude": 40.0947199,
+   "Longitude": -83.0918627
+ },
+ {
+   "Name": "Brice Road",
+   "Address1": "5819 Chantry Dr",
+   "Address2": null,
+   "City": "Columbus",
+   "Postal": 43232,
+   "Latitude": 39.9245782,
+   "Longitude": -82.8344612
+ },
+ {
+   "Name": "Easton",
+   "Address1": "3850 Morse Rd",
+   "Address2": null,
+   "City": "Columbus",
+   "Postal": 43219,
+   "Latitude": 40.0515916,
+   "Longitude": -82.9198486
+ },
+ {
+   "Name": "Saint Peters",
+   "Address1": "4025 Veterans Memorial Pkwy",
+   "Address2": null,
+   "City": "Saint Peters",
+   "Postal": 63376,
+   "Latitude": 38.7949079,
+   "Longitude": -90.56955
+ },
+ {
+   "Name": "Fenton",
+   "Address1": "788 Gravois Bluffs Blvd",
+   "Address2": "The Summit at Gravois Bluffs",
+   "City": "Fenton",
+   "Postal": 63026,
+   "Latitude": 38.5038705,
+   "Longitude": -90.4532792
+ },
+ {
+   "Name": "Lake St. Louis",
+   "Address1": "6298 Ronald Reagan Dr",
+   "Address2": "Hawk's Ridge Shopping Plaza",
+   "City": "Lake Saint Louis",
+   "Postal": 63367,
+   "Latitude": 38.770019,
+   "Longitude": -90.786073
+ },
+ {
+   "Name": "Bridgeton",
+   "Address1": "11982 Saint Charles Rock Rd",
+   "Address2": "Hill Top Plaza",
+   "City": "Bridgeton",
+   "Postal": 63044,
+   "Latitude": 38.7468581,
+   "Longitude": -90.4207972
+ },
+ {
+   "Name": "Fairview Heights",
+   "Address1": "6575 N Illinois St",
+   "Address2": "<b><font color=red>Now Open!</font></b>",
+   "City": "Fairview Heights",
+   "Postal": 62208,
+   "Latitude": 38.5952989,
+   "Longitude": -89.9850781
+ },
+ {
+   "Name": "Kirkwood",
+   "Address1": "1205 S Kirkwood Rd",
+   "Address2": "Kirkwood Crossings",
+   "City": "Kirkwood",
+   "Postal": 63122,
+   "Latitude": 38.5614986,
+   "Longitude": -90.4069199
+ },
+ {
+   "Name": "Town & Country",
+   "Address1": "13961 Manchester Rd",
+   "Address2": "Manchester Meadows",
+   "City": "Manchester",
+   "Postal": 63011,
+   "Latitude": 38.597713,
+   "Longitude": -90.487061
+ },
+ {
+   "Name": "South County",
+   "Address1": "4445 Lemay Ferry Rd",
+   "Address2": "South Pointe",
+   "City": "Saint Louis",
+   "Postal": 63129,
+   "Latitude": 38.4999143,
+   "Longitude": -90.334303
+ },
+ {
+   "Name": "Brentwood",
+   "Address1": "8340 Eager Rd",
+   "Address2": "The Meridian at Brentwood",
+   "City": "Saint Louis",
+   "Postal": 63144,
+   "Latitude": 38.6291477,
+   "Longitude": -90.3377039
+ },
+ {
+   "Name": "Emeryville",
+   "Address1": "3839 Emery St, Ste 300",
+   "Address2": null,
+   "City": "Emeryville",
+   "Postal": 94608,
+   "Latitude": 37.828836,
+   "Longitude": -122.282359
+ },
+ {
+   "Name": "Santa Clara",
+   "Address1": "2855 Stevens Creek Blvd, Ste 1002",
+   "Address2": null,
+   "City": "Santa Clara",
+   "Postal": 95050,
+   "Latitude": 37.323596,
+   "Longitude": -121.945882
+ },
+ {
+   "Name": "Maui",
+   "Address1": "270 Dairy Rd",
+   "Address2": "Maui Market Place",
+   "City": "Kahului",
+   "Postal": 96732,
+   "Latitude": 20.881571,
+   "Longitude": -156.454708
+ },
+ {
+   "Name": "Honolulu",
+   "Address1": "333 Ward Ave",
+   "Address2": "Ward Gateway Center",
+   "City": "Honolulu",
+   "Postal": 96814,
+   "Latitude": 21.296209,
+   "Longitude": -157.85516
+ },
+ {
+   "Name": "Waikele",
+   "Address1": "94-809 Lumiaina St",
+   "Address2": "Waikele Shopping Center",
+   "City": "Waipahu",
+   "Postal": 96797,
+   "Latitude": 21.398837,
+   "Longitude": -158.008549
+ },
+ {
+   "Name": "Kailua-Kona",
+   "Address1": "74-5444 Makala Blvd",
+   "Address2": "Kona Commons",
+   "City": "Kailua Kona",
+   "Postal": 96740,
+   "Latitude": 19.649625,
+   "Longitude": -156.004132
+ },
+ {
+   "Name": "Kapolei",
+   "Address1": "4450 Kapolei Pkwy, Ste 900",
+   "Address2": "Kapolei Commons",
+   "City": "Kapolei",
+   "Postal": 96707,
+   "Latitude": 21.3314449,
+   "Longitude": -158.0924594
+ },
+ {
+   "Name": "Oro Valley",
+   "Address1": "10805 N Oracle Rd, Ste 101",
+   "Address2": null,
+   "City": "Oro Valley",
+   "Postal": 85737,
+   "Latitude": 32.4029671,
+   "Longitude": -110.9519889
+ },
+ {
+   "Name": "Tucson",
+   "Address1": "5185 S Calle Santa Cruz",
+   "Address2": "Spectrum Plaza on Irvington",
+   "City": "Tucson",
+   "Postal": 85706,
+   "Latitude": 32.156227,
+   "Longitude": -110.989181
+ },
+ {
+   "Name": "Chula Vista",
+   "Address1": "390 E H St",
+   "Address2": null,
+   "City": "Chula Vista",
+   "Postal": 91910,
+   "Latitude": 32.6399151,
+   "Longitude": -117.0480779
+ },
+ {
+   "Name": "Escondido",
+   "Address1": "1352 W Valley Pkwy",
+   "Address2": null,
+   "City": "Escondido",
+   "Postal": 92029,
+   "Latitude": 33.1118962,
+   "Longitude": -117.1028181
+ },
+ {
+   "Name": "Mission Valley",
+   "Address1": "8550 Rio San Diego Dr",
+   "Address2": null,
+   "City": "San Diego",
+   "Postal": 92108,
+   "Latitude": 32.7750752,
+   "Longitude": -117.1440334
+ },
+ {
+   "Name": "Encinitas",
+   "Address1": "1050 N El Camino Real",
+   "Address2": null,
+   "City": "Encinitas",
+   "Postal": 92024,
+   "Latitude": 33.0677949,
+   "Longitude": -117.26678
+ },
+ {
+   "Name": "Oceanside",
+   "Address1": "2160 Vista Way",
+   "Address2": null,
+   "City": "Oceanside",
+   "Postal": 92054,
+   "Latitude": 33.1815529,
+   "Longitude": -117.3420912
+ },
+ {
+   "Name": "Citrus Heights",
+   "Address1": "5995 Birdcage Centre Ln",
+   "Address2": null,
+   "City": "Citrus Heights",
+   "Postal": 95610,
+   "Latitude": 38.6749037,
+   "Longitude": -121.2740011
+ },
+ {
+   "Name": "Roseville",
+   "Address1": "6740 Stanford Ranch Rd",
+   "Address2": null,
+   "City": "Roseville",
+   "Postal": 95678,
+   "Latitude": 38.7827642,
+   "Longitude": -121.2658398
+ },
+ {
+   "Name": "Fresno East",
+   "Address1": "7572 N Blackstone Ave",
+   "Address2": null,
+   "City": "Fresno",
+   "Postal": 93720,
+   "Latitude": 36.846685,
+   "Longitude": -119.786333
+ },
+ {
+   "Name": "Henderson",
+   "Address1": "1431 W Sunset Rd",
+   "Address2": "Crossroads at Sunset",
+   "City": "Henderson",
+   "Postal": 89014,
+   "Latitude": 36.062179,
+   "Longitude": -115.048013
+ },
+ {
+   "Name": "Tropicana",
+   "Address1": "5120 S Fort Apache Rd",
+   "Address2": null,
+   "City": "Las Vegas",
+   "Postal": 89148,
+   "Latitude": 36.0952641,
+   "Longitude": -115.2972972
+ },
+ {
+   "Name": "North Rainbow",
+   "Address1": "2178 N Rainbow Blvd",
+   "Address2": "Best in the West",
+   "City": "Las Vegas",
+   "Postal": 89108,
+   "Latitude": 36.198542,
+   "Longitude": -115.240498
+ },
+ {
+   "Name": "Mesa",
+   "Address1": "1812 W Rio Salado Pkwy",
+   "Address2": "Mesa Riverview",
+   "City": "Mesa",
+   "Postal": 85201,
+   "Latitude": 33.4294401,
+   "Longitude": -111.8696138
+ },
+ {
+   "Name": "Paradise Valley",
+   "Address1": "12869 N Tatum Blvd",
+   "Address2": "Village Fair",
+   "City": "Phoenix",
+   "Postal": 85032,
+   "Latitude": 33.6026569,
+   "Longitude": -111.9784359
+ },
+ {
+   "Name": "Scottsdale",
+   "Address1": "9009 E Indian Bend Rd",
+   "Address2": "Scottsdale Pavilions",
+   "City": "Scottsdale",
+   "Postal": 85250,
+   "Latitude": 33.5383922,
+   "Longitude": -111.8871775
+ },
+ {
+   "Name": "Ahwatukee",
+   "Address1": "4820 E Ray Rd",
+   "Address2": null,
+   "City": "Phoenix",
+   "Postal": 85044,
+   "Latitude": 33.320984,
+   "Longitude": -111.978812
+ },
+ {
+   "Name": "Tucson",
+   "Address1": "4225 N Oracle Rd",
+   "Address2": "Tucson Fiesta Plaza",
+   "City": "Tucson",
+   "Postal": 85705,
+   "Latitude": 32.2836504,
+   "Longitude": -110.9784159
+ },
+ {
+   "Name": "Arrowhead Crs",
+   "Address1": "7360 W Bell Rd",
+   "Address2": "Arrowhead Town Center",
+   "City": "Glendale",
+   "Postal": 85308,
+   "Latitude": 33.639331,
+   "Longitude": -112.217652
+ },
+ {
+   "Name": "Superstition Springs",
+   "Address1": "7022 E Hampton Ave",
+   "Address2": "Mesa Pavilions",
+   "City": "Mesa",
+   "Postal": 85209,
+   "Latitude": 33.3905062,
+   "Longitude": -111.6802109
+ },
+ {
+   "Name": "West Plano",
+   "Address1": "2201 Preston Rd",
+   "Address2": null,
+   "City": "Plano",
+   "Postal": 75093,
+   "Latitude": 33.0298677,
+   "Longitude": -96.7967579
+ },
+ {
+   "Name": "Sand City",
+   "Address1": "905 Playa Ave",
+   "Address2": null,
+   "City": "Sand City",
+   "Postal": 93955,
+   "Latitude": 36.6195607,
+   "Longitude": -121.8443896
+ },
+ {
+   "Name": "Sherman Oaks",
+   "Address1": "13730 Riverside Drive",
+   "Address2": null,
+   "City": "Sherman Oaks",
+   "Postal": 91423,
+   "Latitude": 34.157094,
+   "Longitude": -118.432202
+ },
+ {
+   "Name": "SA ELITE - Corte Madera",
+   "Address1": "435 Corte Madera Town Center",
+   "Address2": null,
+   "City": "Corte Madera",
+   "Postal": 94925,
+   "Latitude": 37.9262923,
+   "Longitude": -122.5180747
+ },
+ {
+   "Name": "Walnut Creek",
+   "Address1": "1675 Olympic Blvd",
+   "Address2": "Plaza Escuela",
+   "City": "Walnut Creek",
+   "Postal": 94596,
+   "Latitude": 37.8959204,
+   "Longitude": -122.0624842
+ },
+ {
+   "Name": "Midtown Miami",
+   "Address1": "3401 N. Miami Ave. STE 117",
+   "Address2": null,
+   "City": "Miami",
+   "Postal": 33127,
+   "Latitude": 25.8102325,
+   "Longitude": -80.1935385
+ },
+ {
+   "Name": "Vero Beach",
+   "Address1": "6560 20th Street",
+   "Address2": null,
+   "City": "Vero Beach",
+   "Postal": 32966,
+   "Latitude": 27.640076,
+   "Longitude": -80.461516
+ },
+ {
+   "Name": "Bayshore",
+   "Address1": "5850 North Bayshore Drive",
+   "Address2": null,
+   "City": "Glendale",
+   "Postal": 53217,
+   "Latitude": 43.1224513,
+   "Longitude": -87.9143868
+ },
+ {
+   "Name": "Lakewood",
+   "Address1": "4950 Faculty Avenue",
+   "Address2": null,
+   "City": "Lakewood",
+   "Postal": 90712,
+   "Latitude": 33.8479934,
+   "Longitude": -118.1368968
+ },
+ {
+   "Name": "Farmington",
+   "Address1": "220 Station Parkway",
+   "Address2": null,
+   "City": "Farmington",
+   "Postal": 84025,
+   "Latitude": 40.9878501,
+   "Longitude": -111.9108518
+ },
+ {
+   "Name": "East Plano",
+   "Address1": "3300 N. Central Expressway",
+   "Address2": null,
+   "City": "Plano",
+   "Postal": 75074,
+   "Latitude": 33.038436,
+   "Longitude": -96.7018669
+ },
+ {
+   "Name": "Fairfield",
+   "Address1": "1451 Gateway Blvd.",
+   "Address2": null,
+   "City": "Fairfield",
+   "Postal": 94533,
+   "Latitude": 38.261328,
+   "Longitude": -122.053216
+ },
+ {
+   "Name": "Ontario Mills",
+   "Address1": "4655 Mills Circle",
+   "Address2": null,
+   "City": "Ontario",
+   "Postal": 91764,
+   "Latitude": 34.0701594,
+   "Longitude": -117.5505275
+ },
+ {
+   "Name": "Dublin",
+   "Address1": "7885 Dublin Blvd.",
+   "Address2": null,
+   "City": "Dublin",
+   "Postal": 94568,
+   "Latitude": 37.703791,
+   "Longitude": -121.9308652
+ },
+ {
+   "Name": "Hyannis",
+   "Address1": "790 Iyannough Road",
+   "Address2": "790 Route 132 ",
+   "City": "Hyannis",
+   "Postal": 2601,
+   "Latitude": 41.6691201,
+   "Longitude": -70.2960998
+ },
+ {
+   "Name": "Levittown",
+   "Address1": "3505 Hempstead Turnpike",
+   "Address2": null,
+   "City": "Levittown",
+   "Postal": 11756,
+   "Latitude": 40.7256453,
+   "Longitude": -73.5062528
+ },
+ {
+   "Name": "SA Elite - Northbrook Court",
+   "Address1": "2030 Northbrook Ct.",
+   "Address2": null,
+   "City": "Northbrook",
+   "Postal": 60062,
+   "Latitude": 42.1509395,
+   "Longitude": -87.8178143
+ },
+ {
+   "Name": "SA Elite - Oakbrook Center",
+   "Address1": "15 Oakbrook Ctr. Unit 100",
+   "Address2": null,
+   "City": "Oak Brook",
+   "Postal": 60523,
+   "Latitude": 41.849544,
+   "Longitude": -87.9553
+ },
+ {
+   "Name": "SA Elite - Boulder",
+   "Address1": "1750 29th St. Unit 1052",
+   "Address2": null,
+   "City": "Boulder",
+   "Postal": 80301,
+   "Latitude": 40.017527,
+   "Longitude": -105.254839
+ },
+ {
+   "Name": "Desert Ridge",
+   "Address1": "21001 N Tatum Boulevard",
+   "Address2": null,
+   "City": "Phoenix",
+   "Postal": 85050,
+   "Latitude": 33.678615,
+   "Longitude": -111.9746066
+ },
+ {
+   "Name": "Watertown",
+   "Address1": "485 Arsenal Street",
+   "Address2": null,
+   "City": "Watertown",
+   "Postal": 2472,
+   "Latitude": 42.3624127,
+   "Longitude": -71.1608934
+ },
+ {
+   "Name": "Cinco Ranch",
+   "Address1": "5472 West Grand Parkway South",
+   "Address2": null,
+   "City": "Richmond",
+   "Postal": 77406,
+   "Latitude": 29.6637627,
+   "Longitude": -95.73829
+ },
+ {
+   "Name": "Buford",
+   "Address1": "1705 Mall of Georgia Blvd.",
+   "Address2": null,
+   "City": "Buford",
+   "Postal": 30519,
+   "Latitude": 34.0615925,
+   "Longitude": -83.9917338
+ },
+ {
+   "Name": "Orange",
+   "Address1": "20 City Blvd West",
+   "Address2": null,
+   "City": "Orange",
+   "Postal": 92868,
+   "Latitude": 33.7829838,
+   "Longitude": -117.8934624
+ },
+ {
+   "Name": "San Luis Obispo",
+   "Address1": "243 Madonna Road",
+   "Address2": null,
+   "City": "San Luis Obispo",
+   "Postal": 93405,
+   "Latitude": 35.2636288,
+   "Longitude": -120.6767524
+ },
+ {
+   "Name": "SA ELITE - Water Tower Place",
+   "Address1": "845 North Michigan Avenue",
+   "Address2": null,
+   "City": "Chicago",
+   "Postal": 60611,
+   "Latitude": 41.8983023,
+   "Longitude": -87.6239947
+ },
+ {
+   "Name": "SA ELITE - Topanga Mall",
+   "Address1": "6600 Topanga Canyon Blvd, Unit 2062",
+   "Address2": null,
+   "City": "Canoga Park",
+   "Postal": 91303,
+   "Latitude": 34.1904651,
+   "Longitude": -118.604941
+ },
+ {
+   "Name": "Hilo",
+   "Address1": "111 E. Puainako Street",
+   "Address2": null,
+   "City": "Hilo",
+   "Postal": 96720,
+   "Latitude": 19.6983327,
+   "Longitude": -155.0617773
+ },
+ {
+   "Name": "Manalapan",
+   "Address1": "55 US Highway 9",
+   "Address2": null,
+   "City": "Manalapan",
+   "Postal": 7726,
+   "Latitude": 40.2934898,
+   "Longitude": -74.2985771
+ },
+ {
+   "Name": "Stonestown",
+   "Address1": "233 Winston Drive",
+   "Address2": null,
+   "City": "San Francisco",
+   "Postal": 94132,
+   "Latitude": 37.7268506,
+   "Longitude": -122.4759838
+ },
+ {
+   "Name": "North Port",
+   "Address1": "18219 Tamiami Trail",
+   "Address2": null,
+   "City": "North Port",
+   "Postal": 34287,
+   "Latitude": 27.0395192,
+   "Longitude": -82.2235548
+ },
+ {
+   "Name": "Northridge",
+   "Address1": "9301 Tampa Avenue",
+   "Address2": null,
+   "City": "Northridge",
+   "Postal": 91324,
+   "Latitude": 34.2391367,
+   "Longitude": -118.5536313
+ },
+ {
+   "Name": "Folsom",
+   "Address1": "430 Palladio Parkway",
+   "Address2": null,
+   "City": "Folsom",
+   "Postal": 95630,
+   "Latitude": 38.6479981,
+   "Longitude": -121.1208477
+ },
+ {
+   "Name": "Ventura",
+   "Address1": "4870 Telephone Road",
+   "Address2": null,
+   "City": "Ventura",
+   "Postal": 93003,
+   "Latitude": 34.2617265,
+   "Longitude": -119.2269106
+ },
+ {
+   "Name": "Broadmoor Towne Center",
+   "Address1": "2120 Southgate Road",
+   "Address2": null,
+   "City": "Colorado Springs",
+   "Postal": 80906,
+   "Latitude": 38.8022472,
+   "Longitude": -104.817761
+ },
+ {
+   "Name": "SA ELITE - The Mall in Columbia",
+   "Address1": "10300 Little Patuxent Parkway",
+   "Address2": "The Mall in Columbia",
+   "City": "Columbia",
+   "Postal": 21044,
+   "Latitude": 39.2156245,
+   "Longitude": -76.8616784
+ },
+ {
+   "Name": "Durango",
+   "Address1": "800 S. Camino Del Rio",
+   "Address2": null,
+   "City": "Durango",
+   "Postal": 81301,
+   "Latitude": 37.2417451,
+   "Longitude": -107.869637
+ },
+ {
+   "Name": "Coral Springs",
+   "Address1": "9188 Wiles Rd.",
+   "Address2": null,
+   "City": "Coral Springs",
+   "Postal": 33067,
+   "Latitude": 26.286883,
+   "Longitude": -80.2490547
+ },
+ {
+   "Name": "Hollywood",
+   "Address1": "4100 Oakwood Blvd.",
+   "Address2": null,
+   "City": "Hollywood",
+   "Postal": 33020,
+   "Latitude": 26.046281,
+   "Longitude": -80.161121
+ },
+ {
+   "Name": "Danvers",
+   "Address1": "100 Independence Way",
+   "Address2": null,
+   "City": "Danvers",
+   "Postal": 1923,
+   "Latitude": 42.551452,
+   "Longitude": -70.939858
+ },
+ {
+   "Name": "SA ELITE - Westbury",
+   "Address1": "950 Old Country Rd.",
+   "Address2": null,
+   "City": "Garden City",
+   "Postal": 11530,
+   "Latitude": 40.745294,
+   "Longitude": -73.6034725
+ },
+ {
+   "Name": "Windward Mall",
+   "Address1": "46-056 Kamehameha Hwy.",
+   "Address2": null,
+   "City": "Kaneohe",
+   "Postal": 96744,
+   "Latitude": 21.420639,
+   "Longitude": -157.805745
+ },
+ {
+   "Name": "Gillette",
+   "Address1": "2610 S. Douglas Hwy Suite 135",
+   "Address2": null,
+   "City": "Gillette",
+   "Postal": 82718,
+   "Latitude": 44.2717222,
+   "Longitude": -105.4942214
+ },
+ {
+   "Name": "Wheaton",
+   "Address1": "101 Rice Lake Square",
+   "Address2": null,
+   "City": "Wheaton",
+   "Postal": 60189,
+   "Latitude": 41.83112,
+   "Longitude": -88.09791
+ },
+ {
+   "Name": "Santa Fe",
+   "Address1": "4250 Cerrillos Rd. Suite #2000",
+   "Address2": null,
+   "City": "Santa Fe",
+   "Postal": 87507,
+   "Latitude": 35.636668,
+   "Longitude": -106.014732
+ },
+ {
+   "Name": "Montgomeryville",
+   "Address1": "801 Bethlehem Pike",
+   "Address2": null,
+   "City": "North Wales",
+   "Postal": 19454,
+   "Latitude": 40.2370741,
+   "Longitude": -75.2403894
+ },
+ {
+   "Name": "Coeur d Alene",
+   "Address1": "200 West Hanley Ave, Suite #13",
+   "Address2": null,
+   "City": "Coeur d Alene",
+   "Postal": 83815,
+   "Latitude": 47.73176,
+   "Longitude": -116.789759
+ },
+ {
+   "Name": "Fairfax",
+   "Address1": "13031 Fair Lakes Shopping Center",
+   "Address2": null,
+   "City": "Fairfax",
+   "Postal": 22033,
+   "Latitude": 38.8569437,
+   "Longitude": -77.39363349999999
+ },
+ {
+   "Name": "Corvallis",
+   "Address1": "944 NW Circle Blvd.",
+   "Address2": null,
+   "City": "Corvallis",
+   "Postal": 97330,
+   "Latitude": 44.587849,
+   "Longitude": -123.258504
+ },
+ {
+   "Name": "Elmsford",
+   "Address1": "295 E Main St.",
+   "Address2": null,
+   "City": "Elmsford",
+   "Postal": 10523,
+   "Latitude": 41.0474674,
+   "Longitude": -73.8063468
+ },
+ {
+   "Name": "Merritt Island",
+   "Address1": "777 E Merritt Island Cswy",
+   "Address2": null,
+   "City": "Merritt Island",
+   "Postal": 32952,
+   "Latitude": 28.355038,
+   "Longitude": -80.684667
+ },
+ {
+   "Name": "Bellingham",
+   "Address1": "20 Bellis Fair Pkwy",
+   "Address2": "<b><font color=red>Now Open!</font></b>",
+   "City": "Bellingham",
+   "Postal": 98226,
+   "Latitude": 48.7849239,
+   "Longitude": -122.49328
+ },
+ {
+   "Name": "Ponce",
+   "Address1": "Avenida Rafael 'Churumba' Cordero Santiago",
+   "Address2": null,
+   "City": "Ponce",
+   "Postal": 731,
+   "Latitude": 17.99104,
+   "Longitude": -66.609489
+ },
+ {
+   "Name": "Antioch",
+   "Address1": "5839 Lone Tree Way",
+   "Address2": null,
+   "City": "Antioch",
+   "Postal": 94531,
+   "Latitude": 37.9641428,
+   "Longitude": -121.7361481
+ },
+ {
+   "Name": "Middletown",
+   "Address1": "1315 W. Main Rd.",
+   "Address2": null,
+   "City": "Middletown",
+   "Postal": 2842,
+   "Latitude": 41.5341447,
+   "Longitude": -71.2927618
+ },
+ {
+   "Name": "Lakeland",
+   "Address1": "3800 US Highway 98N",
+   "Address2": null,
+   "City": "Lakeland",
+   "Postal": 33809,
+   "Latitude": 28.0911574,
+   "Longitude": -81.9739389
+ },
+ {
+   "Name": "Norridge",
+   "Address1": "4250 North Harlem Avenue",
+   "Address2": null,
+   "City": "Norridge",
+   "Postal": 60706,
+   "Latitude": 41.9570857,
+   "Longitude": -87.8073422
+ },
+ {
+   "Name": "Ames",
+   "Address1": "215 SE 5th Street",
+   "Address2": null,
+   "City": "Ames",
+   "Postal": 50010,
+   "Latitude": 42.0174106,
+   "Longitude": -93.6098121
+ },
+ {
+   "Name": "Bemidji",
+   "Address1": "2028 Paul Bunyan Dr. NW",
+   "Address2": null,
+   "City": "Bemidji",
+   "Postal": 56601,
+   "Latitude": 47.4952186,
+   "Longitude": -94.9096723
+ },
+ {
+   "Name": "Culpeper",
+   "Address1": "705 Dominion Square",
+   "Address2": null,
+   "City": "Culpeper",
+   "Postal": 22701,
+   "Latitude": 38.482905,
+   "Longitude": -77.97594
+ },
+ {
+   "Name": "Roseburg",
+   "Address1": "1440 NW Garden Valley Blvd.",
+   "Address2": null,
+   "City": "Roseburg",
+   "Postal": 97471,
+   "Latitude": 43.234571,
+   "Longitude": -123.37352
+ },
+ {
+   "Name": "Narragansett",
+   "Address1": "91 Point Judith Rd.",
+   "Address2": null,
+   "City": "Narragansett",
+   "Postal": 2882,
+   "Latitude": 41.429245,
+   "Longitude": -71.48248
+ },
+ {
+   "Name": "Eureka",
+   "Address1": "3300 Broadway Street",
+   "Address2": null,
+   "City": "Eureka",
+   "Postal": 95501,
+   "Latitude": 40.7792963,
+   "Longitude": -124.1905928
+ },
+ {
+   "Name": "Auburn",
+   "Address1": "730 Center Street",
+   "Address2": null,
+   "City": "Auburn",
+   "Postal": 4210,
+   "Latitude": 44.12661,
+   "Longitude": -70.227256
+ },
+ {
+   "Name": "Klamath Falls",
+   "Address1": "2870 S 6th Street",
+   "Address2": null,
+   "City": "Klamath Falls",
+   "Postal": 97603,
+   "Latitude": 42.2098931,
+   "Longitude": -121.7542374
+ },
+ {
+   "Name": "Olympia",
+   "Address1": "1200 Cooper Point Rd Sw",
+   "Address2": "<b><font color=red>Now Open!</font></b>",
+   "City": "Olympia",
+   "Postal": 98502,
+   "Latitude": 47.0375455,
+   "Longitude": -122.9385261
+ },
+ {
+   "Name": "Plaza Las AmÃ©ricas",
+   "Address1": "Calle Calaf #525",
+   "Address2": null,
+   "City": "Hato Rey",
+   "Postal": 918,
+   "Latitude": 18.423208,
+   "Longitude": -66.036332
+ },
+ {
+   "Name": "Carolina",
+   "Address1": "Avenida JesÃºs M. Fragoso",
+   "Address2": null,
+   "City": "Carolina",
+   "Postal": 983,
+   "Latitude": 18.394438,
+   "Longitude": -65.9746675
+ },
+ {
+   "Name": "Lake Zurich",
+   "Address1": "727 W. Main Street",
+   "Address2": "<b><font color=red>Now Open!</font></b>",
+   "City": "Lake Zurich",
+   "Postal": 60047,
+   "Latitude": 42.1902431,
+   "Longitude": -88.1090253
+ },
+ {
+   "Name": "Lihue",
+   "Address1": "3-2600 Kaumualii Highway",
+   "Address2": "<b><font color=red>Now Open!</font></b>",
+   "City": "Lihue",
+   "Postal": 96766,
+   "Latitude": 21.969756,
+   "Longitude": -159.3786872
+ },
+ {
+   "Name": "Midtown Crossing",
+   "Address1": "4550 W. Pico Blvd.",
+   "Address2": "<b><font color=red>Now Open!</font></b>",
+   "City": "Los Angeles",
+   "Postal": 90019,
+   "Latitude": 34.0480276,
+   "Longitude": -118.3354677
+ },
+ {
+   "Name": "Wilmette",
+   "Address1": "3232 Lake Avenue",
+   "Address2": "<b><font color=red>Coming Soon!</font></b>",
+   "City": "Wilmette",
+   "Postal": 60091,
+   "Latitude": 42.0824568,
+   "Longitude": -87.757362
+ },
+ {
+   "Name": "Tracy",
+   "Address1": "3150 Naglee Rd",
+   "Address2": "<b><font color=red>Coming Soon!</font></b>",
+   "City": "Tracy",
+   "Postal": 95304,
+   "Latitude": 37.75946,
+   "Longitude": -121.4591642
+ },
+ {
+   "Name": "Rancho San Diego",
+   "Address1": "2983 Jamacha Road",
+   "Address2": "<b><font color=red>Coming Soon!</font></b>",
+   "City": "El Cajon",
+   "Postal": 92019,
+   "Latitude": 32.7383074,
+   "Longitude": -116.941052
+ }
+]
